@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import Link from 'next/link';
 import Lottie from 'lottie-react';
 import animationData from '../public/Scene-11.json';
 
@@ -29,17 +30,20 @@ export default function Home() {
       {/* Navigation */}
       <nav className="relative z-10 flex items-center justify-between px-16 py-10 animate-fadeIn animation-delay-200 opacity-0" style={{ animationFillMode: 'forwards' }}>
         <div className="flex items-center gap-16">
-          <Image
-            src="/rune-logo-white 1.png"
-            alt="Rune"
-            width={120}
-            height={35}
-            className="h-8 w-auto"
-          />
+          <Link href="/">
+            <Image
+              src="/rune-logo-white 1.png"
+              alt="Rune"
+              width={120}
+              height={35}
+              className="h-8 w-auto cursor-pointer hover:opacity-80 transition-opacity"
+            />
+          </Link>
           <div className="hidden lg:flex items-center gap-10">
             <a href="#" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">How it Works</a>
             <a href="#" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">FAQ</a>
-            <a href="#" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">Health Database</a>
+            <Link href="/health-database" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">Health Database</Link>
+            <Link href="/biomarkers" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">Biomarkers</Link>
             <a href="#" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">About Us</a>
           </div>
         </div>
@@ -160,7 +164,8 @@ export default function Home() {
             <div className="flex gap-12 mb-8">
               <a href="#" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">How it Works</a>
               <a href="#" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">FAQ</a>
-              <a href="#" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Health Database</a>
+              <Link href="/health-database" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Health Database</Link>
+              <Link href="/biomarkers" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Biomarkers</Link>
               <a href="#" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">About Us</a>
             </div>
             <div className="flex gap-4 mb-8">
