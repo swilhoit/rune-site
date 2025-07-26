@@ -214,10 +214,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
             <article className="bg-white/95 backdrop-blur rounded-2xl shadow-xl overflow-hidden animate-fadeInUp opacity-0" style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}>
               {/* Hero Image */}
-              {post.mainImage && (
+              {post.mainImage && post.mainImage.asset?._ref && (
                 <div className="relative h-96 overflow-hidden">
                   <Image
-                    src={urlForImage(post.mainImage).width(1200).height(600).url()}
+                    src={urlForImage({
+                      _type: 'image' as const,
+                      asset: {
+                        _type: 'reference' as const,
+                        _ref: post.mainImage.asset._ref
+                      }
+                    }).width(1200).height(600).url()}
                     alt={post.mainImage.alt || post.title}
                     fill
                     className="object-cover"
@@ -238,9 +244,15 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   <div className="flex flex-wrap items-center gap-4 text-sm font-mono text-gray-600">
                     {post.author && (
                       <div className="flex items-center gap-3">
-                        {post.author.image && (
+                        {post.author.image && post.author.image.asset?._ref && (
                           <Image
-                            src={urlForImage(post.author.image).width(60).height(60).url()}
+                            src={urlForImage({
+                              _type: 'image' as const,
+                              asset: {
+                                _type: 'reference' as const,
+                                _ref: post.author.image.asset._ref
+                              }
+                            }).width(60).height(60).url()}
                             alt={post.author.name}
                             width={40}
                             height={40}
