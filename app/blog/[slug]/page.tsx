@@ -120,11 +120,12 @@ const components = {
   },
 };
 
-export default async function BlogPostPage({ params }: { params: { slug: string } }) {
+export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   let post: Post | null = null;
   
   try {
-    post = await getPost(params.slug);
+    post = await getPost(slug);
   } catch (error) {
     console.error('Error fetching post:', error);
   }
