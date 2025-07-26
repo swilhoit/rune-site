@@ -1,0 +1,1829 @@
+[
+  {
+    "id": "Activated charcoal",
+    "name": "Activated charcoal",
+    "description": "Activated charcoal is a fine, odorless, and tasteless black powder made from coal, wood, peat, coconut shell, or petroleum coke. It is treated with oxygen to open up millions of tiny pores that capture and trap toxins and chemicals in the body.",
+    "alternateNames": "Activated carbon",
+    "imageUrl": "https://replicate.delivery/yhqm/c6rhLugpe53nb6WP06p8z18giyax1MEPKiQRZfK5fhQ8Fs4mA/out-0.webp"
+  },
+  {
+    "id": "Acupuncture",
+    "name": "Acupuncture",
+    "description": "Acupuncture is a form of traditional Chinese medicine that involves inserting thin needles into specific points on the body. It is believed to help balance the flow of energy, or qi, within the body.",
+    "alternateNames": "None",
+    "imageUrl": "https://replicate.delivery/yhqm/4k4mNK2ZTyLNHhGhJ1bQW58u5eCloEgLwsnLsVURI6MgBLuJA/out-0.webp"
+  },
+  {
+    "id": "Alfalfa",
+    "name": "Alfalfa",
+    "description": "Alfalfa is a plant that is commonly used as a dietary supplement due to its high nutritional content. It belongs to the legume family and has a long history of use in traditional medicine.",
+    "alternateNames": "Medicago sativa",
+    "imageUrl": "https://replicate.delivery/yhqm/HvN8YmiXyMaXG14se0P4lJof8hAeJUJknk5Yl6MroXQHGs4mA/out-0.webp"
+  },
+  {
+    "id": "Aloe vera",
+    "name": "Aloe vera",
+    "description": "Aloe vera is a succulent plant that has thick, fleshy leaves containing a gel-like substance. It has been used for centuries for its medicinal properties and is known for its soothing and healing benefits.",
+    "alternateNames": "Aloe barbadensis",
+    "imageUrl": "https://replicate.delivery/yhqm/7uTFvCPOx5pjHNvQmrlt1j1YDeiF1kgfvoiybChxxBH2CWcTA/out-0.webp"
+  },
+  {
+    "id": "Anise (Pimpinella anisum)",
+    "name": "Anise (Pimpinella anisum)",
+    "description": "Anise is a flowering plant in the Apiaceae family, native to the eastern Mediterranean region and Southwest Asia. The seeds are used as a spice and for their medicinal properties.",
+    "alternateNames": "Aniseed, anise seed",
+    "imageUrl": "https://replicate.delivery/yhqm/YDglVH7M9YLrNp5SHsXJ0BXyZ3Dh2oiqGgaDEWEPIEaxgF3E/out-0.webp"
+  },
+  {
+    "id": "Apple cider vinegar",
+    "name": "Apple cider vinegar",
+    "description": "Apple cider vinegar is made from fermented apple juice. It is known for its acidic properties and has been used for centuries for its health benefits.",
+    "alternateNames": "ACV",
+    "imageUrl": "https://replicate.delivery/yhqm/594FrmunqKZUP5MDm5JIyp8tuoLnyywx43YlbxQqPc6tgF3E/out-0.webp"
+  },
+  {
+    "id": "Arnica",
+    "name": "Arnica",
+    "description": "Arnica is a perennial herb found in mountain areas of Europe and North America. It has been used for centuries in traditional medicine for its anti-inflammatory and pain-relieving properties.",
+    "alternateNames": "Arnica montana",
+    "imageUrl": "https://replicate.delivery/yhqm/Qff3T3beFoAxzISyQT0fsdUw5DB0KnNUEdhzafLWLV4OXwibC/out-0.webp"
+  },
+  {
+    "id": "Aromatherapy",
+    "name": "Aromatherapy",
+    "description": "Aromatherapy is a holistic healing treatment that uses essential oils extracted from plants to promote physical, emotional, and mental well-being. The oils can be inhaled, applied topically, or used in a diffuser to create a therapeutic atmosphere.",
+    "alternateNames": "Essential oil therapy",
+    "imageUrl": "https://replicate.delivery/yhqm/3AqrFuCgCQ6SEZYdmbZeKcJAWssudQOzpjsHHocC7GGhBLuJA/out-0.webp"
+  },
+  {
+    "id": "Ashwagandha",
+    "name": "Ashwagandha",
+    "description": "Ashwagandha is an herb commonly used in traditional Indian Ayurvedic medicine for its adaptogenic properties, which help the body cope with stress and anxiety. It is also known for its anti-inflammatory and antioxidant effects.",
+    "alternateNames": "Withania somnifera, Winter cherry, Indian ginseng",
+    "imageUrl": "https://replicate.delivery/yhqm/qeow65Oux2yJYCxQPIUgE5QL3nLvH5fRXE1LFee9I12sLYxNB/out-0.webp"
+  },
+  {
+    "id": "Astragalus",
+    "name": "Astragalus",
+    "description": "Astragalus is a plant native to China and has been used in Traditional Chinese Medicine for centuries. The root of the plant is typically dried and used in herbal remedies.",
+    "alternateNames": "Huang Qi",
+    "imageUrl": "https://replicate.delivery/yhqm/FuzImM5Poj6qBxZb0eM0ZUQf1vnm1dgkHnlI032j8ZQ9CWcTA/out-0.webp"
+  },
+  {
+    "id": "Barberry",
+    "name": "Barberry",
+    "description": "Barberry is a shrub that is native to Europe, northern Africa, and western Asia. It has been used for centuries in traditional medicine due to its various therapeutic properties.",
+    "alternateNames": "Berberis vulgaris",
+    "imageUrl": "https://replicate.delivery/yhqm/QHoZiReTM1xdBa8xV0285RZaLNbflPfZJNBrtx7amlHmGs4mA/out-0.webp"
+  },
+  {
+    "id": "Basil",
+    "name": "Basil",
+    "description": "Basil is a fragrant herb commonly used in cooking, but it also has many medicinal properties. It belongs to the mint family and is known for its strong aroma and flavor.",
+    "alternateNames": "Ocimum basilicum",
+    "imageUrl": "https://replicate.delivery/yhqm/W11Aa9FGodZCBFXY0ZyxK27K3efIEUBl3MVOhV6IxtoHDWcTA/out-0.webp"
+  },
+  {
+    "id": "Bee Pollen",
+    "name": "Bee Pollen",
+    "description": "Bee pollen is a mixture of flower pollen, nectar, enzymes, honey, and wax collected by bees as a protein source. It is considered a superfood due to its high nutritional content.",
+    "alternateNames": "Bee Bread",
+    "imageUrl": "https://replicate.delivery/yhqm/TYN6XINaDk7XLRgeMiMCS7NAe9BH8cgcFFQJdA3QL9hRDWcTA/out-0.webp"
+  },
+  {
+    "id": "Bilberry",
+    "name": "Bilberry",
+    "description": "Bilberry is a small, dark blue fruit that is similar in appearance to a blueberry. It has been used for centuries in traditional medicine for various ailments.",
+    "alternateNames": "European Blueberry",
+    "imageUrl": "https://replicate.delivery/yhqm/eTjCN8skjx2vZ6Vvq5uVZVJrYnoGKmYMfxPRsYhDWwZVDWcTA/out-0.webp"
+  },
+  {
+    "id": "Black cohosh",
+    "name": "Black cohosh",
+    "description": "Black cohosh is a herb native to North America that has been traditionally used for its medicinal properties. It is commonly used to treat symptoms of menopause and menstrual disorders.",
+    "alternateNames": "Actaea racemosa, black snakeroot, bugbane",
+    "imageUrl": "https://replicate.delivery/yhqm/o3H0ob2Sz6ZKERnJXk0njuDXmdZkVNhn0eaesxoVzJCIDWcTA/out-0.webp"
+  },
+  {
+    "id": "Blue vervain",
+    "name": "Blue vervain",
+    "description": "Blue vervain is a perennial herb that is native to North America. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Verbena hastata",
+    "imageUrl": "https://replicate.delivery/yhqm/85LyHx21jtqiCp271EzDene6fQ2WwcMmaNJykQ2XvdedNYxNB/out-0.webp"
+  },
+  {
+    "id": "Borage oil",
+    "name": "Borage oil",
+    "description": "Borage oil is extracted from the seeds of the borage plant, also known as starflower. It is rich in gamma-linolenic acid (GLA), an omega-6 fatty acid that the body needs for various functions.",
+    "alternateNames": "Starflower oil",
+    "imageUrl": "https://replicate.delivery/yhqm/1jGyIqiyMsbvOV1DKQ5lyvRkaqBFOsjzTILHOfGNfNzODWcTA/out-0.webp"
+  },
+  {
+    "id": "Buchu",
+    "name": "Buchu",
+    "description": "Buchu is a plant native to South Africa and has been used for centuries by the indigenous people for medicinal purposes. The leaves of the Buchu plant are dried and used to make teas and extracts.",
+    "alternateNames": "Agathosma betulina",
+    "imageUrl": "https://replicate.delivery/yhqm/uX4LLGFKUd5aMVaZx9H5f1zXBblZdJOOxIShjCerVffeZwibC/out-0.webp"
+  },
+  {
+    "id": "Burdock root",
+    "name": "Burdock root",
+    "description": "Burdock root is a plant that is native to Europe and Asia. It has been used in traditional medicine for centuries due to its potential health benefits.",
+    "alternateNames": "Arctium lappa",
+    "imageUrl": "https://replicate.delivery/yhqm/e93WO2f2UePlVICI60tKUFS02GOXMgwWfwyC2ttwEmkrMYxNB/out-0.webp"
+  },
+  {
+    "id": "Butterbur",
+    "name": "Butterbur",
+    "description": "Butterbur is a plant native to Europe and parts of Asia, commonly used in herbal medicine for its potential health benefits.",
+    "alternateNames": "Petasites hybridus",
+    "imageUrl": "https://replicate.delivery/yhqm/02yecvs0GCW7HC60D2IUMV1hCUCXZ86kryBNfG9ciWvMDWcTA/out-0.webp"
+  },
+  {
+    "id": "Calendula cream",
+    "name": "Calendula cream",
+    "description": "Calendula cream is a topical ointment made from the Calendula officinalis plant, also known as marigold. It is commonly used for its anti-inflammatory and healing properties.",
+    "alternateNames": "Marigold cream",
+    "imageUrl": "https://replicate.delivery/yhqm/2lYrXmxshDIDPZb1eZ7sFfJF9lZhKLBIwgaIQVlVeIXLHs4mA/out-0.webp"
+  },
+  {
+    "id": "Cayenne pepper",
+    "name": "Cayenne pepper",
+    "description": "Cayenne pepper is a type of chili pepper commonly used in cooking and for its medicinal properties. It is high in capsaicin, which is responsible for its spicy taste and many health benefits.",
+    "alternateNames": "Capsicum annum",
+    "imageUrl": "https://replicate.delivery/yhqm/8ov0bbUdym7MOhIZlwY2fabnnnRASZYVeGU9MY3XbeV8Gs4mA/out-0.webp"
+  },
+  {
+    "id": "Celery seed extract",
+    "name": "Celery seed extract",
+    "description": "Celery seed extract is derived from the seeds of the Apium graveolens plant, commonly known as celery. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Apium graveolens extract",
+    "imageUrl": "https://replicate.delivery/yhqm/vv1GkHUixeT9BCEqy8xnXvsG7aJ35IoyVG2qKC9pbfFcDWcTA/out-0.webp"
+  },
+  {
+    "id": "Chamomile tea",
+    "name": "Chamomile tea",
+    "description": "Chamomile tea is a herbal tea made from the dried flowers of the chamomile plant. It has a mild, soothing taste and is commonly consumed for its calming and relaxing properties.",
+    "alternateNames": "Camomile tea",
+    "imageUrl": "https://replicate.delivery/yhqm/2UHumz0uhRq6CtSrq4lXXTcrYbSfcQq48Ccp3Y0pht2sBLuJA/out-0.webp"
+  },
+  {
+    "id": "Chlorella supplements",
+    "name": "Chlorella supplements",
+    "description": "Chlorella supplements are derived from a type of freshwater algae that are rich in nutrients and antioxidants. They are commonly available in tablet or powder form and are often used as a dietary supplement.",
+    "alternateNames": "Chlorella vulgaris supplements",
+    "imageUrl": "https://replicate.delivery/yhqm/QcCAfj2qcu2qGSAxY50fixZHSEqAfsewYNbvBf2KBex05gF3E/out-0.webp"
+  },
+  {
+    "id": "Clove Oil",
+    "name": "Clove Oil",
+    "description": "Clove oil is derived from the clove plant, specifically the buds of the Syzygium aromaticum tree. It has a warm, spicy aroma and is commonly used in aromatherapy and traditional medicine practices.",
+    "alternateNames": "Eugenia caryophyllus oil",
+    "imageUrl": "https://replicate.delivery/yhqm/pQhpR0ieaAR2cqfnoIUBB8eciz8szV596cc1UuHT44BAHs4mA/out-0.webp"
+  },
+  {
+    "id": "Colloidal silver",
+    "name": "Colloidal silver",
+    "description": "Colloidal silver is a supplement consisting of microscopic silver particles suspended in liquid. It is believed to have natural antibacterial and anti-inflammatory properties.",
+    "alternateNames": "Silver colloid",
+    "imageUrl": "https://replicate.delivery/yhqm/HxU7BQZnDLpeGaTPNHDmrNcC06YBZqnJkKhxMzitbOk0BLuJA/out-0.webp"
+  },
+  {
+    "id": "Comfrey ointment",
+    "name": "Comfrey ointment",
+    "description": "Comfrey ointment is a natural remedy made from the Comfrey plant, known for its healing properties. The ointment is made by extracting the mucilage and allantoin from the Comfrey plant and combining it with a carrier oil or beeswax.",
+    "alternateNames": "Symphytum officinale ointment",
+    "imageUrl": "https://replicate.delivery/yhqm/Vs4HHJIJLh7gGJ7ON3BJPaw6Ft4gS0XkaNjCIJIpTg22gF3E/out-0.webp"
+  },
+  {
+    "id": "Cranberry juice",
+    "name": "Cranberry juice",
+    "description": "Cranberry juice is a popular fruit juice made from cranberries, known for its tart flavor and vibrant red color. It is often consumed for its potential health benefits, particularly for urinary tract health.",
+    "alternateNames": null,
+    "imageUrl": "https://replicate.delivery/yhqm/Qp3JocSyhDKbCtY0utrZrucGu1bgfFHfUsJCzaXIXudiDWcTA/out-0.webp"
+  },
+  {
+    "id": "Cucumber slices",
+    "name": "Cucumber slices",
+    "description": "Cucumber slices have long been used as a natural remedy for various skin and health conditions. They are known for their cooling and hydrating properties.",
+    "alternateNames": "Cucumber therapy",
+    "imageUrl": "https://replicate.delivery/yhqm/FleErnEuJIUqcqbosAgUgzfBY8VWtK31mRlhIc7SWrfXHs4mA/out-0.webp"
+  },
+  {
+    "id": "DGL (Deglycyrrhizinated licorice)",
+    "name": "DGL (Deglycyrrhizinated licorice)",
+    "description": "DGL is a form of licorice root that has been processed to remove the compound glycyrrhizin, which can cause side effects such as high blood pressure when consumed in large amounts. DGL is commonly used as a supplement to help with digestive issues and inflammation.",
+    "alternateNames": "Licorice root extract without glycyrrhizin",
+    "imageUrl": "https://replicate.delivery/yhqm/dK2TvHpa5MIvGV4XPXrSe1Zo3i1tVh84dZRemyV5H0s0DWcTA/out-0.webp"
+  },
+  {
+    "id": "DMSO (Dimethyl sulfoxide)",
+    "name": "DMSO (Dimethyl sulfoxide)",
+    "description": "DMSO is a colorless liquid that is used topically to reduce pain and inflammation. It works by reducing swelling, improving blood flow, and blocking pain signals in the body.",
+    "alternateNames": null,
+    "imageUrl": "https://replicate.delivery/yhqm/3JwAy3e8dN0zIyM9EBijOBN5TTApKoG5ofDeYGIeUxfVfgF3E/out-0.webp"
+  },
+  {
+    "id": "Damiana",
+    "name": "Damiana",
+    "description": "Damiana is a plant native to Central and South America that has been traditionally used for its medicinal properties. The leaves of the plant are harvested and used in various forms, such as tea or supplements.",
+    "alternateNames": "Turnera diffusa",
+    "imageUrl": "https://replicate.delivery/yhqm/pYNmT6SKVDZmOpo9f5H1NBBpglIGG42fVBkZUHU36qtyDWcTA/out-0.webp"
+  },
+  {
+    "id": "Dandelion Tea",
+    "name": "Dandelion Tea",
+    "description": "Dandelion tea is an herbal tea made from the roots or leaves of the dandelion plant. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Taraxacum officinale tea",
+    "imageUrl": "https://replicate.delivery/yhqm/OFSQvYRTthITO5h8G3zUXyNifSXivibDofNoFyawgM0sDWcTA/out-0.webp"
+  },
+  {
+    "id": "Dead Sea salts",
+    "name": "Dead Sea salts",
+    "description": "Dead Sea salts are mineral-rich salts that are extracted from the Dead Sea, a saltwater lake located between Jordan and Israel. These salts have been used for centuries for their wellness and beauty benefits.",
+    "alternateNames": "Dead Sea mineral salts",
+    "imageUrl": "https://replicate.delivery/yhqm/ydKNlN1YfyVFfEtAvBskOxN4HiVh72B634PkcWEJrEi3DWcTA/out-0.webp"
+  },
+  {
+    "id": "Devil's claw",
+    "name": "Devil's claw",
+    "description": "Devil's claw is a plant native to southern Africa that has been used for centuries as a natural remedy for various health conditions.",
+    "alternateNames": "Grapple plant, Wood spider",
+    "imageUrl": "https://replicate.delivery/yhqm/ICwwVM7AnN4VHZKkUPmVLfzxQMQnyes7avERyONze86cHs4mA/out-0.webp"
+  },
+  {
+    "id": "Dill oil",
+    "name": "Dill oil",
+    "description": "Dill oil is derived from the seeds or leaves of the dill plant through steam distillation. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Anethum graveolens oil",
+    "imageUrl": "https://replicate.delivery/yhqm/zN2ePeCz99q9mkrLJaM94njmU0x0Y6Xbu0NjDifyN2vyHs4mA/out-0.webp"
+  },
+  {
+    "id": "Dong quai",
+    "name": "Dong quai",
+    "description": "Dong quai is a traditional Chinese herb that has been used for centuries in herbal medicine. It is known for its potential health benefits, particularly for women's health.",
+    "alternateNames": "Angelica sinensis",
+    "imageUrl": "https://replicate.delivery/yhqm/wMfT2JwHf3tBIk4tqY2Isepsz3T4t1AJ1EZGTga1A8wsHs4mA/out-0.webp"
+  },
+  {
+    "id": "Dr. Bach's Rescue Remedy",
+    "name": "Dr. Bach's Rescue Remedy",
+    "description": "Dr. Bach's Rescue Remedy is a blend of five flower essences created by Dr. Edward Bach, a British physician and homeopath. This natural remedy is designed to provide relief during times of stress, anxiety, or emotional upheaval.",
+    "alternateNames": "Bach Flower Rescue Remedy",
+    "imageUrl": "https://replicate.delivery/yhqm/0VAUgFY8UEIUJNM9mPPKdeHZeIee6GbufWQWQFOfMrFNfBLuJA/out-0.webp"
+  },
+  {
+    "id": "Dragon's blood",
+    "name": "Dragon's blood",
+    "description": "Dragon's blood is a bright red resin that is derived from a variety of different plants, including the Croton, Dracaena, Daemonorops, and Pterocarpus species. It has been used for centuries in traditional medicine practices in South America, Africa, and Asia.",
+    "alternateNames": "Sangre de Drago",
+    "imageUrl": "https://replicate.delivery/yhqm/wjRxHmsChoIyM9KL7PfFcuXVjlhe5osZEWXp7fvmMvTgHs4mA/out-0.webp"
+  },
+  {
+    "id": "Echinacea",
+    "name": "Echinacea",
+    "description": "Echinacea is a flowering plant native to North America that has been used medicinally for centuries. It is commonly used to boost the immune system and treat various infections.",
+    "alternateNames": "Purple coneflower",
+    "imageUrl": "https://replicate.delivery/yhqm/IAas0SMfQvU7HSYlG49v0yPTm8hjQZvshfMjg5cTvITeHs4mA/out-0.webp"
+  },
+  {
+    "id": "Elderberry",
+    "name": "Elderberry",
+    "description": "Elderberry is a fruit from the elder tree that has been used for centuries for its medicinal properties. The berries are commonly used to make syrup, tea, and other remedies.",
+    "alternateNames": "Sambucus nigra",
+    "imageUrl": "https://replicate.delivery/yhqm/33RLQCWVsBZGBNeQ7Oye3PkRzJNwUSd1ZsGL9UEvV27AEWcTA/out-0.webp"
+  },
+  {
+    "id": "Eleuthero (Siberian ginseng)",
+    "name": "Eleuthero (Siberian ginseng)",
+    "description": "Eleuthero is an adaptogenic herb that has been used in traditional Chinese medicine and Russian traditional medicine for centuries due to its potential health benefits.",
+    "alternateNames": "Eleutherococcus senticosus",
+    "imageUrl": "https://replicate.delivery/yhqm/6KIHk5b3kxZOHl9nfrTx2xHquaOl4Sv32NueNT0S4MUHEWcTA/out-0.webp"
+  },
+  {
+    "id": "Elm bark",
+    "name": "Elm bark",
+    "description": "Elm bark comes from the inner bark of the elm tree and has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Ulmus rubra",
+    "imageUrl": "https://replicate.delivery/yhqm/kMRf0e2YIskWP09OyACZLWLc1dfNX3EaPZEtSN8QMxFTIs4mA/out-0.webp"
+  },
+  {
+    "id": "Enzyme supplements",
+    "name": "Enzyme supplements",
+    "description": "Enzyme supplements are natural substances that help break down food into smaller, more easily absorbable nutrients. They are often taken to aid digestion for those who have difficulty breaking down food due to various health conditions.",
+    "alternateNames": "Digestive enzymes",
+    "imageUrl": "https://replicate.delivery/yhqm/dXcPiAUe4qTJCapWQzFenHAunjevUN946kLdXKxCiWAfQYxNB/out-0.webp"
+  },
+  {
+    "id": "Epsom salt",
+    "name": "Epsom salt",
+    "description": "Epsom salt is a naturally occurring mineral compound of magnesium and sulfate. It is named after the town of Epsom in England, where it was originally discovered.",
+    "alternateNames": "Magnesium sulfate",
+    "imageUrl": "https://replicate.delivery/yhqm/2HGizoFaVxJiA5JbIGpBeFzYdiUBMPmnKDhZn2rSwszCCLuJA/out-0.webp"
+  },
+  {
+    "id": "Essential fatty acids",
+    "name": "Essential fatty acids",
+    "description": "Essential fatty acids are a type of polyunsaturated fats that are important for overall health and well-being. The body cannot produce them on its own, so they must be obtained through diet or supplementation.",
+    "alternateNames": "Omega-3 and Omega-6 fatty acids",
+    "imageUrl": "https://replicate.delivery/yhqm/NWB2ADLJmAoBA1D5OGIvKdzf1MzGfn0MdZNsWShoyvQNEWcTA/out-0.webp"
+  },
+  {
+    "id": "Eucalyptus oil",
+    "name": "Eucalyptus oil",
+    "description": "Eucalyptus oil is derived from the leaves of the eucalyptus tree and is known for its fresh, invigorating aroma. It has been used for centuries for its medicinal properties.",
+    "alternateNames": "Eucalyptus globulus oil",
+    "imageUrl": "https://replicate.delivery/yhqm/zrMcLVE0TZaIGJUYBmyG5HNNWKAjseb767yC0eXI5EGBEWcTA/out-0.webp"
+  },
+  {
+    "id": "Evening primrose oil",
+    "name": "Evening primrose oil",
+    "description": "Evening primrose oil is derived from the seeds of the evening primrose plant, which is native to North America. It is rich in omega-6 fatty acids, particularly gamma-linolenic acid (GLA).",
+    "alternateNames": "Oenothera biennis oil",
+    "imageUrl": "https://replicate.delivery/yhqm/MPr0yufVlV3cJygb6u87MTkZOUnPfF7es7bAexbtqhtPQYxNB/out-0.webp"
+  },
+  {
+    "id": "Eyebright",
+    "name": "Eyebright",
+    "description": "Eyebright is a small flowering plant that has been used for centuries in traditional medicine for its beneficial properties for the eyes.",
+    "alternateNames": "Euphrasia",
+    "imageUrl": "https://replicate.delivery/yhqm/7l5x2muLrDJDHJmx17pOI6PoTT9hxOrRhWJZexwocZjFCLuJA/out-0.webp"
+  },
+  {
+    "id": "Fennel Tea",
+    "name": "Fennel Tea",
+    "description": "Fennel tea is an herbal tea made from the seeds of the fennel plant, Foeniculum vulgare. It has a slightly sweet and aromatic flavor.",
+    "alternateNames": "Foeniculum vulgare tea",
+    "imageUrl": "https://replicate.delivery/yhqm/9JasDAhdkZ5yDV65Yb8ftm3ELHdiQc5YKcHkqgD9lHfQEWcTA/out-0.webp"
+  },
+  {
+    "id": "Fennel seeds",
+    "name": "Fennel seeds",
+    "description": "Fennel seeds are commonly used in cooking as a flavoring agent, but they also have medicinal properties. These small, oval seeds have a sweet and licorice-like flavor.",
+    "alternateNames": "Foeniculum vulgare",
+    "imageUrl": "https://replicate.delivery/yhqm/PgcNCU50LlL9AlVPXNeuG52ZCknXZaR6PLSoqemGxVOZEWcTA/out-0.webp"
+  },
+  {
+    "id": "Fenugreek",
+    "name": "Fenugreek",
+    "description": "Fenugreek is an herb commonly used in cooking and traditional medicine. It has a long history of use in various cultures for its medicinal properties.",
+    "alternateNames": "Trigonella foenum-graecum",
+    "imageUrl": "https://replicate.delivery/yhqm/BhQNeyoeyTjSgEVGrnt9bQEdeQE7VpRjhufF4nt7C6seiwibC/out-0.webp"
+  },
+  {
+    "id": "Feverfew",
+    "name": "Feverfew",
+    "description": "Feverfew is a flowering plant that belongs to the daisy family. It is native to Europe and has been used as a medicinal herb for centuries.",
+    "alternateNames": "Bachelor's Buttons",
+    "imageUrl": "https://replicate.delivery/yhqm/l6aEIHfKEfncfoIgVl8IejpcDEYY4G4lnIAZatNn3QVKRYxNB/out-0.webp"
+  },
+  {
+    "id": "Fig leaf tea",
+    "name": "Fig leaf tea",
+    "description": "Fig leaf tea is made by steeping dried fig leaves in hot water. Fig leaves are known for their medicinal properties and have been used in natural remedies for various health conditions.",
+    "alternateNames": "Fig tea",
+    "imageUrl": "https://replicate.delivery/yhqm/KAWac11Eyr5XJVQrwX2GEcUCEk8U3aZtZAiKBZyennSPCLuJA/out-0.webp"
+  },
+  {
+    "id": "Fish oil",
+    "name": "Fish oil",
+    "description": "Fish oil is a dietary supplement that contains omega-3 fatty acids, which are essential nutrients that our bodies cannot produce on their own.",
+    "alternateNames": "Omega-3 fatty acids",
+    "imageUrl": "https://replicate.delivery/yhqm/R3oZYROF9WYoOhDRCCqABhHlG59Afh38L6kic3a8QiqKCLuJA/out-0.webp"
+  },
+  {
+    "id": "Flavanol-rich foods",
+    "name": "Flavanol-rich foods",
+    "description": "Flavanol-rich foods are foods that contain high levels of flavanols, a type of plant compound with antioxidant properties. Some common sources of flavanols include dark chocolate, red wine, green tea, berries, apples, and citrus fruits.",
+    "alternateNames": "Flavanoids",
+    "imageUrl": "https://replicate.delivery/yhqm/roMFUsQeN836ACQ3vG6aaWYP2uJosbThvo0dlFNTqqdNCLuJA/out-0.webp"
+  },
+  {
+    "id": "Flaxseed oil",
+    "name": "Flaxseed oil",
+    "description": "Flaxseed oil is derived from the seeds of the flax plant (Linum usitatissimum). It is rich in omega-3 fatty acids, particularly alpha-linolenic acid (ALA).",
+    "alternateNames": "Linseed oil",
+    "imageUrl": "https://replicate.delivery/yhqm/Hfk6BxzgenoMb0Sk4meBi8RlOeQybXkOdHeRKDbmeWV1EhF3E/out-0.webp"
+  },
+  {
+    "id": "Frankincense",
+    "name": "Frankincense",
+    "description": "Frankincense is a resin obtained from the Boswellia tree and has been used for centuries in traditional medicine for its various healing properties.",
+    "alternateNames": "Boswellia",
+    "imageUrl": "https://replicate.delivery/yhqm/aERAjSMh9TqAFxNFlN6zv0IsIyWgkyi6uqk84f7958iPCLuJA/out-0.webp"
+  },
+  {
+    "id": "Fruit-infused water",
+    "name": "Fruit-infused water",
+    "description": "Fruit-infused water is made by adding fresh fruits, herbs, and sometimes vegetables to a pitcher of water and allowing it to infuse for several hours or overnight. This process imparts the water with the natural flavors and nutrients of the ingredients, resulting in a refreshing and flavorful beverage.",
+    "alternateNames": "Flavored water, detox water",
+    "imageUrl": "https://replicate.delivery/yhqm/nfsGIz6Q9HRYfEeyZDQS85TLvzUzJWJ8wNEJkrNJN5r5Is4mA/out-0.webp"
+  },
+  {
+    "id": "Garlic supplements",
+    "name": "Garlic supplements",
+    "description": "Garlic supplements are capsules or tablets made from concentrated extract of garlic, a popular herb known for its strong flavor and potential health benefits.",
+    "alternateNames": "Allium sativum supplements",
+    "imageUrl": "https://replicate.delivery/yhqm/UQrRcbeDjmW6OCMN9jO7uP7fNE8e9WUYVXWPyU1vOaIHJs4mA/out-0.webp"
+  },
+  {
+    "id": "Gelatin supplements",
+    "name": "Gelatin supplements",
+    "description": "Gelatin supplements are made from animal collagen, typically derived from bones, skin, and connective tissues. Gelatin is a protein that is rich in amino acids such as glycine and proline.",
+    "alternateNames": "Collagen supplements",
+    "imageUrl": "https://replicate.delivery/yhqm/Of3cUPskzelX4UkcFHdhFI44M5gEfkE2L6jKHjjrxkMfSYxNB/out-0.webp"
+  },
+  {
+    "id": "Ginger tea",
+    "name": "Ginger tea",
+    "description": "Ginger tea is a herbal tea made from the rhizome of the ginger plant. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Ginger root tea",
+    "imageUrl": "https://replicate.delivery/yhqm/7kcoYdp8FzKrDxOidZ8OkbPlLL2HSqdeCJtXsknmdsxQCLuJA/out-0.webp"
+  },
+  {
+    "id": "Ginseng",
+    "name": "Ginseng",
+    "description": "Ginseng is a popular herbal remedy that has been used in traditional Chinese medicine for centuries. It is derived from the root of the Panax ginseng plant and is believed to have various health benefits.",
+    "alternateNames": "Panax Ginseng",
+    "imageUrl": "https://replicate.delivery/yhqm/y78857ktTSLlP9nIPIsElcvRrjAAEORHtYLywfsRXEiSCLuJA/out-0.webp"
+  },
+  {
+    "id": "Goldenrod",
+    "name": "Goldenrod",
+    "description": "Goldenrod is a flowering plant native to North America and Europe. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Solidago",
+    "imageUrl": "https://replicate.delivery/yhqm/TPJWmyECUva2JFnLZybNsLqMmzqQX6fWrJGtndIXeYmmEWcTA/out-0.webp"
+  },
+  {
+    "id": "Goldenseal",
+    "name": "Goldenseal",
+    "description": "Goldenseal is a perennial herb native to the northeastern United States and southeastern Canada. It has been used for centuries in traditional medicine for its medicinal properties.",
+    "alternateNames": "Hydrastis canadensis",
+    "imageUrl": "https://replicate.delivery/yhqm/jkXvdmeNffEzwJmztgDjEFqKIXBJUKsvSxtmEUy5ScyWJs4mA/out-0.webp"
+  },
+  {
+    "id": "Gotu Kola",
+    "name": "Gotu Kola",
+    "description": "Gotu kola is a perennial plant native to Asia that has been used in traditional medicine for centuries. The leaves of the plant are rich in antioxidants and contain several active compounds that have beneficial effects on the body.",
+    "alternateNames": "Centella asiatica",
+    "imageUrl": "https://replicate.delivery/yhqm/xOLH8jGpPUrgNV8MXE4HvTUffGfPTQgPExM13Za9LjrjJs4mA/out-0.webp"
+  },
+  {
+    "id": "Grapefruit seed extract",
+    "name": "Grapefruit seed extract",
+    "description": "Grapefruit seed extract is derived from the seeds and pulp of grapefruit and is known for its strong antimicrobial properties.",
+    "alternateNames": "Citrus grandis seed extract",
+    "imageUrl": "https://replicate.delivery/yhqm/UDffe65LDrfyiTSFis99IKkz37elAeXyjffNwRun6m7VqEWcTA/out-0.webp"
+  },
+  {
+    "id": "Green tea",
+    "name": "Green tea",
+    "description": "Green tea is a type of tea that is made from Camellia sinensis leaves and buds that have not undergone the same withering and oxidation process used to make black tea. It is known for its numerous health benefits and is rich in antioxidants.",
+    "alternateNames": "Camellia sinensis",
+    "imageUrl": "https://replicate.delivery/yhqm/nRmSWE2YQ4IqHF62UZB7qRevALWppxCiiFpWxctBe6zoEWcTA/out-0.webp"
+  },
+  {
+    "id": "Guava leaves",
+    "name": "Guava leaves",
+    "description": "Guava leaves have been used for centuries for their medicinal properties. They are rich in antioxidants, antibacterial, and anti-inflammatory properties, making them a popular natural remedy for various health issues.",
+    "alternateNames": "Psidium guajava leaves",
+    "imageUrl": "https://replicate.delivery/yhqm/K2kHhfnewshm006Ek7El8eysgAS2zm1lsANN6a27fSv3SYxNB/out-0.webp"
+  },
+  {
+    "id": "Hemp oil",
+    "name": "Hemp oil",
+    "description": "Hemp oil is derived from the hemp plant and contains high levels of cannabidiol (CBD) with very low levels of THC, the psychoactive component of marijuana. It is commonly used for medicinal purposes due to its non-intoxicating properties and potential health benefits.",
+    "alternateNames": "CBD oil, cannabidiol oil",
+    "imageUrl": "https://replicate.delivery/yhqm/6IV9EqzAzEIoOR3jFVuWleXGeO33A10Lkqh58gc6YPeeTYxNB/out-0.webp"
+  },
+  {
+    "id": "Herbal tea",
+    "name": "Herbal tea",
+    "description": "Herbal tea is a beverage made by steeping herbs, flowers, roots, and other plant parts in hot water. It is commonly used for its medicinal properties and soothing effects.",
+    "alternateNames": "Infusion",
+    "imageUrl": "https://replicate.delivery/yhqm/3KQvsZow4roUGhWckkfwPVNfnhKrvoYAo22VTlE0IzXNIWcTA/out-0.webp"
+  },
+  {
+    "id": "Hibiscus Tea",
+    "name": "Hibiscus Tea",
+    "description": "Hibiscus tea is a herbal tea made from the dried petals of the hibiscus flower, known for its tart and fruity flavor. It is often enjoyed hot or cold and can be brewed alone or mixed with other herbs or fruits.",
+    "alternateNames": "Rose Mallow Tea, Agua de Jamaica",
+    "imageUrl": "https://replicate.delivery/yhqm/aJUVoOaF7YLMBRdk9lskYvAPyohR3RgeukHY59dMqLtbCLuJA/out-0.webp"
+  },
+  {
+    "id": "Holy Basil",
+    "name": "Holy Basil",
+    "description": "Holy basil is a plant used in traditional medicine practices, particularly in Ayurveda. It is known for its strong aromatic properties and is commonly used in culinary dishes as well.",
+    "alternateNames": "Tulsi",
+    "imageUrl": "https://replicate.delivery/yhqm/IajCd6DyfpWVVq3hTksfWA7TitiTplVZEKbGUVC8pCd4EWcTA/out-0.webp"
+  },
+  {
+    "id": "Homeopathic Remedies",
+    "name": "Homeopathic Remedies",
+    "description": "Homeopathic remedies are a natural form of medicine that uses highly diluted substances to promote healing and balance within the body. This alternative medicine practice is based on the principle that \"like cures like,\" meaning a substance that causes symptoms in a healthy person can be used to treat similar symptoms in a sick person.",
+    "alternateNames": "Homeopathy",
+    "imageUrl": "https://replicate.delivery/yhqm/RdMm1P95tVZ4MhxsQoJe28nzY34ZqqRkys1EafFlFG0DFWcTA/out-0.webp"
+  },
+  {
+    "id": "Honey",
+    "name": "Honey",
+    "description": "Honey is a sweet, natural substance produced by bees from the nectar of flowers. It has been used for centuries for its therapeutic properties.",
+    "alternateNames": null,
+    "imageUrl": "https://replicate.delivery/yhqm/AY8iWUPc5r61OJ5rTSgeBBPFDj05EAe1poMIJfI7REUmJs4mA/out-0.webp"
+  },
+  {
+    "id": "Horseradish",
+    "name": "Horseradish",
+    "description": "Horseradish is a pungent root vegetable that is commonly used as a condiment in cooking. It has been used for centuries for its medicinal properties due to its high levels of antioxidants, vitamins, and minerals.",
+    "alternateNames": "Armoracia rusticana",
+    "imageUrl": "https://replicate.delivery/yhqm/JBH3PnSsr96AJVWDDdZYFTLvBVBCqKGSzfqf198EeyVpJs4mA/out-0.webp"
+  },
+  {
+    "id": "Horsetail",
+    "name": "Horsetail",
+    "description": "Horsetail is a plant that has been used for centuries in traditional medicine for its medicinal properties. It is rich in silica, which is essential for healthy bones, skin, and hair.",
+    "alternateNames": "Equisetum arvense",
+    "imageUrl": "https://replicate.delivery/yhqm/RaRlgkSeEXVaYi0CVtX1IpYL4Jc2W0G2Effam8NSfpDrTYxNB/out-0.webp"
+  },
+  {
+    "id": "Horsetail extract",
+    "name": "Horsetail extract",
+    "description": "Horsetail extract is derived from the horsetail plant, a medicinal herb that has been used for centuries in traditional medicine for its health benefits.",
+    "alternateNames": "Equisetum arvense",
+    "imageUrl": "https://replicate.delivery/yhqm/WmrNc97sZF4dBBoE3Zn7fnupe6NOpYf7jXfxfjcQMjwPowibC/out-0.webp"
+  },
+  {
+    "id": "Hydrogen peroxide",
+    "name": "Hydrogen peroxide",
+    "description": "Hydrogen peroxide is a chemical compound that consists of two hydrogen and two oxygen atoms. It is a colorless liquid that is commonly used as a household disinfectant and antiseptic.",
+    "alternateNames": "H2O2",
+    "imageUrl": "https://replicate.delivery/yhqm/MKTTz6tDATolG9M4lErd81vOjJmZJfscaJzpF2NlqfNeJs4mA/out-0.webp"
+  },
+  {
+    "id": "Hyssop",
+    "name": "Hyssop",
+    "description": "Hyssop is a herbaceous plant in the mint family that is native to the Mediterranean region. It has a long history of use in traditional medicine for its medicinal properties.",
+    "alternateNames": "Hyssopus officinalis",
+    "imageUrl": "https://replicate.delivery/yhqm/ELmXVTUPacZ6LFvUdMe4bIemee2BRvDBbqercNpuElqknwibC/out-0.webp"
+  },
+  {
+    "id": "Ibuprofen",
+    "name": "Ibuprofen",
+    "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that is commonly used to reduce pain, fever, and inflammation. It works by inhibiting the production of chemicals in the body that cause pain and inflammation.",
+    "alternateNames": "Advil, Motrin",
+    "imageUrl": "https://replicate.delivery/yhqm/mbNDRaH9cfSnDC3um796PUopA97hApABvTD6o8SLRfVEFWcTA/out-0.webp"
+  },
+  {
+    "id": "Ice pack",
+    "name": "Ice pack",
+    "description": "An ice pack is a portable plastic sac filled with cold gel or frozen water that is applied to the skin to provide relief from pain or swelling.",
+    "alternateNames": "Cold pack",
+    "imageUrl": "https://replicate.delivery/yhqm/IUWcJc4gZiqxER7nPwjfe8oDsRZKVTDjuTZo2g2dah4GFWcTA/out-0.webp"
+  },
+  {
+    "id": "Immune-boosting supplements",
+    "name": "Immune-boosting supplements",
+    "description": "Immune-boosting supplements are vitamins, minerals, and other substances that are taken to help strengthen the immune system and defend the body against illness and infection.",
+    "alternateNames": "Immune support supplements",
+    "imageUrl": "https://replicate.delivery/yhqm/Ia8qMvBBkwoxPRN4T12qd2PifBDfTWUTv0B8dSsKrdWLFWcTA/out-0.webp"
+  },
+  {
+    "id": "Indian Ginseng (Ashwagandha)",
+    "name": "Indian Ginseng (Ashwagandha)",
+    "description": "Indian ginseng, also known as Ashwagandha, is an ancient medicinal herb that has been used in traditional Ayurvedic medicine for centuries. It is known for its adaptogenic properties, which help the body cope with stress and anxiety.",
+    "alternateNames": "Withania somnifera",
+    "imageUrl": "https://replicate.delivery/yhqm/FZii8wS5I9YfHiV8GBRnqGlp48LApML7fNF8cse8TbqkKs4mA/out-0.webp"
+  },
+  {
+    "id": "Inhaler",
+    "name": "Inhaler",
+    "description": "An inhaler is a medical device that delivers medication directly into the lungs through the use of a handheld device. It is commonly used to treat respiratory conditions such as asthma, chronic obstructive pulmonary disease (COPD), and other lung diseases.",
+    "alternateNames": "Respiratory inhaler",
+    "imageUrl": "https://replicate.delivery/yhqm/AnyueF09LmRkZS01zbkDHsaCUs6XqdBV6mqxs0F2cpAkCLuJA/out-0.webp"
+  },
+  {
+    "id": "Intravenous fluids",
+    "name": "Intravenous fluids",
+    "description": "Intravenous fluids are a method of administering fluids, electrolytes, medications, and nutrition directly into the bloodstream through a vein. This is typically done using a plastic catheter inserted into a vein in the hand, arm, or leg.",
+    "alternateNames": "IV fluids",
+    "imageUrl": "https://replicate.delivery/yhqm/fPTLetduPtiTDEyRxR3s8fkDbZLya7aAGePCA1lb13KQVYxNB/out-0.webp"
+  },
+  {
+    "id": "Iodine Tincture",
+    "name": "Iodine Tincture",
+    "description": "Iodine tincture is a solution of iodine and potassium iodide used as a disinfectant and antiseptic.",
+    "alternateNames": "Lugol's Solution",
+    "imageUrl": "https://replicate.delivery/yhqm/7QIXuf4TdkRqEaTl23WnrNZ1UWOg5DRyxLVzkBMY5NWlCLuJA/out-0.webp"
+  },
+  {
+    "id": "Ionic Foot Detox Bath",
+    "name": "Ionic Foot Detox Bath",
+    "description": "An ionic foot bath is a detoxification treatment that involves immersing the feet in a basin of warm water while a device generates a low-level electrical current to create positively and negatively charged ions. These ions are said to help draw out toxins and impurities from the body through the feet.",
+    "alternateNames": "Ionic foot cleanse, Ionic foot spa",
+    "imageUrl": "https://replicate.delivery/yhqm/MqNY9mg4ymKsENX7EYTxfeDQgloVhnM9eg6Raa63CSHaKs4mA/out-0.webp"
+  },
+  {
+    "id": "Iron supplements",
+    "name": "Iron supplements",
+    "description": "Iron supplements are oral medication that contain iron, a mineral essential for the production of hemoglobin, a protein in red blood cells that carries oxygen throughout the body.",
+    "alternateNames": "Iron pills, iron tablets",
+    "imageUrl": "https://replicate.delivery/yhqm/d1fEeA6qsMs1VURFVg7U7Wv7GgeAgtCtP9barY8DaUpeUYxNB/out-0.webp"
+  },
+  {
+    "id": "Isopropyl alcohol",
+    "name": "Isopropyl alcohol",
+    "description": "Isopropyl alcohol is a common disinfectant and antiseptic that is used to clean wounds and surfaces.",
+    "alternateNames": "Isopropanol, rubbing alcohol",
+    "imageUrl": "https://replicate.delivery/yhqm/e5cD06XgfMlg00zQFyiqGTXrQEUcC3CZRIKqm9RuIaRQFWcTA/out-0.webp"
+  },
+  {
+    "id": "Jackfruit leaves",
+    "name": "Jackfruit leaves",
+    "description": "Jackfruit leaves are the leaves of the jackfruit tree, a tropical fruit tree native to South Asia. These leaves are green and have a waxy texture.",
+    "alternateNames": "Artocarpus heterophyllus leaves",
+    "imageUrl": "https://replicate.delivery/yhqm/8PfeJVYeoOZDbJwW4YP7S8scid5RJqUz6ex7NX1NqHhtVYxNB/out-0.webp"
+  },
+  {
+    "id": "Jamaican dogwood",
+    "name": "Jamaican dogwood",
+    "description": "Jamaican dogwood is a tropical tree native to the West Indies and Central America. It has been used in traditional medicine for centuries to treat various ailments.",
+    "alternateNames": "Piscidia piscipula",
+    "imageUrl": "https://replicate.delivery/yhqm/d6HgX747V1ZCJdakQaziIwt6DobYmZsE5gPeB3vfPNdcFWcTA/out-0.webp"
+  },
+  {
+    "id": "Jambul fruit",
+    "name": "Jambul fruit",
+    "description": "Jambul fruit is a tropical fruit that is native to the Indian subcontinent and Southeast Asia. It is a dark purple fruit with a sweet and slightly tangy taste.",
+    "alternateNames": "Java plum, Jambolan, Jamun",
+    "imageUrl": "https://replicate.delivery/yhqm/MnckqiMXtc6FM9IBEA89lLy0eks3xdwKNZcNvEw9tUNxCLuJA/out-0.webp"
+  },
+  {
+    "id": "Japanese knotweed",
+    "name": "Japanese knotweed",
+    "description": "Japanese knotweed is a perennial plant native to East Asia that has been used in traditional Chinese and Japanese medicine for centuries. It is often considered an invasive species due to its aggressive growth and ability to spread rapidly.",
+    "alternateNames": "Polygonum cuspidatum",
+    "imageUrl": "https://replicate.delivery/yhqm/7k1gMWRX3h48OtsFIEVSYtSNWfFzGesySM975mitf4I8Ks4mA/out-0.webp"
+  },
+  {
+    "id": "Jasmine tea",
+    "name": "Jasmine tea",
+    "description": "Jasmine tea is a type of tea that is made by blending green or white tea leaves with jasmine flowers. The jasmine flowers are added during the tea processing to infuse the tea with a delicate floral aroma and sweet taste.",
+    "alternateNames": "Jasmine green tea",
+    "imageUrl": "https://replicate.delivery/yhqm/SsDEYCx6JnofBa7AShTKZZXqTeCc91qVhvg8y3NE6D0VFWcTA/out-0.webp"
+  },
+  {
+    "id": "Jewelweed",
+    "name": "Jewelweed",
+    "description": "Jewelweed is a plant known for its soothing properties, particularly on skin conditions such as poison ivy rashes.",
+    "alternateNames": "Touch-me-not",
+    "imageUrl": "https://replicate.delivery/yhqm/LbVwcoNQsJLmL5m1LgK7RbIoneqzt4jZNqgApoime0olFWcTA/out-0.webp"
+  },
+  {
+    "id": "Job's tears",
+    "name": "Job's tears",
+    "description": "Job's tears (Coix lacryma-jobi) is a type of grain that is commonly used in traditional Chinese medicine and other Asian cultures for its health benefits.",
+    "alternateNames": "Coix seed",
+    "imageUrl": "https://replicate.delivery/yhqm/ux2StMKWApJhMlBYmB0ceRQUhN3f5C8mVv5hebxHObJALs4mA/out-0.webp"
+  },
+  {
+    "id": "Jojoba butter",
+    "name": "Jojoba butter",
+    "description": "Jojoba butter is derived from the seeds of the jojoba plant (Simmondsia chinensis) and is commonly used in skincare products for its moisturizing and nourishing properties.",
+    "alternateNames": "Simmondsia Chinensis Seed Butter",
+    "imageUrl": "https://replicate.delivery/yhqm/rTdEclWrTTICGhegV0BC41IZwmizxHjq2K8o5fyIqrdkFWcTA/out-0.webp"
+  },
+  {
+    "id": "Jojoba oil",
+    "name": "Jojoba oil",
+    "description": "Jojoba oil is a natural oil extracted from the seeds of the jojoba plant. It is widely used in cosmetic and personal care products due to its similarity to the skin's natural oils.",
+    "alternateNames": "Simmondsia chinensis oil",
+    "imageUrl": "https://replicate.delivery/yhqm/ld3YsvJeQUTPdSyzTSJWfYhpxVVroXEAeKGnJg9arDNvKs4mA/out-0.webp"
+  },
+  {
+    "id": "Juniper berries",
+    "name": "Juniper berries",
+    "description": "Juniper berries are the female seed cones of the common juniper tree. They have a sharp, piney flavor and are commonly used as a spice in cooking and for medicinal purposes.",
+    "alternateNames": "Juniperus communis",
+    "imageUrl": "https://replicate.delivery/yhqm/8oKmKukAlkaZEteBq9WretHPSOSHzcP2N0rufNDMucqzKs4mA/out-0.webp"
+  },
+  {
+    "id": "Kale Extract",
+    "name": "Kale Extract",
+    "description": "Kale extract is derived from the leafy green vegetable kale, which is known for its high nutritional content. It is often used in supplement form for its various health benefits.",
+    "alternateNames": "Brassica oleracea",
+    "imageUrl": "https://replicate.delivery/yhqm/OrLayJ0pau6fNSl7926rpmKFSntGSeVwERAaJRoyn1VzFWcTA/out-0.webp"
+  },
+  {
+    "id": "Kava Kava",
+    "name": "Kava Kava",
+    "description": "Kava Kava is a plant native to the South Pacific islands, where it has been used traditionally for its sedative and calming effects. The root of the plant is typically used to make supplements or extracts.",
+    "alternateNames": "Piper methysticum",
+    "imageUrl": "https://replicate.delivery/yhqm/TP7oNNmg8wZjM1leYhmRxq2q7ZXWH4FXyQ04ViS4Zr9zCLuJA/out-0.webp"
+  },
+  {
+    "id": "Kelp",
+    "name": "Kelp",
+    "description": "Kelp is a type of brown seaweed that is commonly found in the ocean. It is rich in essential vitamins and minerals, including iodine, potassium, calcium, and magnesium.",
+    "alternateNames": "Seaweed",
+    "imageUrl": "https://replicate.delivery/yhqm/onP6relqx203OqByh29owq5ND1dFQ2t2rSTmEJHDDwK3CLuJA/out-0.webp"
+  },
+  {
+    "id": "Kiwi",
+    "name": "Kiwi",
+    "description": "Kiwi is a small, green fruit with a fuzzy brown skin that is packed with vitamins and nutrients. It is commonly found in many parts of the world and is known for its sweet and tart taste.",
+    "alternateNames": "Chinese gooseberry",
+    "imageUrl": "https://replicate.delivery/yhqm/e03lYMoWuP0vcSy0VkdouzljGo15DJfq030vq5142VHwFWcTA/out-0.webp"
+  },
+  {
+    "id": "Kombu",
+    "name": "Kombu",
+    "description": "Kombu is a type of edible seaweed commonly used in Asian cuisine. It is rich in essential nutrients such as iodine, potassium, magnesium, calcium, and iron.",
+    "alternateNames": "Kelp",
+    "imageUrl": "https://replicate.delivery/yhqm/xLIDYzcBHOqYIZAj82oZzeKQPOAIWFbfy4TTVhUNjY93FWcTA/out-0.webp"
+  },
+  {
+    "id": "Kombucha",
+    "name": "Kombucha",
+    "description": "Kombucha is a fermented tea beverage that has been consumed for thousands of years. It is made by fermenting sweetened black or green tea with a symbiotic culture of bacteria and yeast (SCOBY).",
+    "alternateNames": "\"Mushroom tea\"",
+    "imageUrl": "https://replicate.delivery/yhqm/6W2OhzWf3d1xAqZk5Ep5iInrpeEj6eEyfDWqO6PwKOEkWYxNB/out-0.webp"
+  },
+  {
+    "id": "Korean Ginseng",
+    "name": "Korean Ginseng",
+    "description": "Korean Ginseng is a herb that has been used in traditional Chinese medicine for centuries. It is known for its adaptogenic properties, helping the body to adapt to stress and improve overall well-being.",
+    "alternateNames": "Panax ginseng",
+    "imageUrl": "https://replicate.delivery/yhqm/g3KRpfhiBCxKL6SuVVWDbqAUWDuVCqDCS7l1eBv2ZyfYLs4mA/out-0.webp"
+  },
+  {
+    "id": "Krill Oil",
+    "name": "Krill Oil",
+    "description": "Krill oil is derived from tiny shrimp-like marine crustaceans called krill. It is a rich source of omega-3 fatty acids, specifically EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid), as well as astaxanthin, a powerful antioxidant.",
+    "alternateNames": "Euphausia superba oil",
+    "imageUrl": "https://replicate.delivery/yhqm/8Uyr1Z4hiLbwHBso7BboTijcmMPyQDbyZfZHnIwVVh64CLuJA/out-0.webp"
+  },
+  {
+    "id": "Kudzu",
+    "name": "Kudzu",
+    "description": "Kudzu is a plant native to East Asia that has been used in traditional Chinese medicine for centuries. The root of the kudzu plant is the most commonly used part for medicinal purposes.",
+    "alternateNames": "Pueraria lobata",
+    "imageUrl": "https://replicate.delivery/yhqm/FIFTVgw3ePXdJScPbSJxcEeMPatGvDwqcZxagry6J3fWLs4mA/out-0.webp"
+  },
+  {
+    "id": "Kutki (Picrorhiza kurroa)",
+    "name": "Kutki (Picrorhiza kurroa)",
+    "description": "Kutki is a perennial herb that is native to the Himalayan region. It has been used in Ayurvedic medicine for centuries due to its potent medicinal properties.",
+    "alternateNames": "Kutaj, Katuki",
+    "imageUrl": "https://replicate.delivery/yhqm/ZWmqoycCQJ5AIR3NDILxXCrXufvM7RUOiDF8unTmrHi6CLuJA/out-0.webp"
+  },
+  {
+    "id": "L-glutamine supplements",
+    "name": "L-glutamine supplements",
+    "description": "L-glutamine is an amino acid that is naturally produced in the body and plays a key role in various bodily functions. It is also available in supplement form to support overall health and well-being.",
+    "alternateNames": "Glutamine",
+    "imageUrl": "https://replicate.delivery/yhqm/RxHkyhk8OwY1FtkKdra5Cnl7QghlxQYyiMdEorAy31DihF3E/out-0.webp"
+  },
+  {
+    "id": "L-lysine supplements",
+    "name": "L-lysine supplements",
+    "description": "L-lysine is an essential amino acid that is not produced by the body and must be obtained through diet or supplements. It plays a crucial role in the body's production of proteins and enzymes.",
+    "alternateNames": "L-lysine capsules, L-lysine tablets",
+    "imageUrl": "https://replicate.delivery/yhqm/goAI6eWeeDOJkp7BjU02JH7ACoEiT3XOMmX5HfWvvSegwwibC/out-0.webp"
+  },
+  {
+    "id": "Lavender oil",
+    "name": "Lavender oil",
+    "description": "Lavender oil is an essential oil extracted from the flowers of the lavender plant. It is known for its calming and soothing properties, as well as its pleasant aroma.",
+    "alternateNames": "Lavandula angustifolia oil",
+    "imageUrl": "https://replicate.delivery/yhqm/RazA5MUFnG64MdFP0ReD4fuQ0HVoyCItwXw1wXBeAI6xLs4mA/out-0.webp"
+  },
+  {
+    "id": "Lavender sachet",
+    "name": "Lavender sachet",
+    "description": "A lavender sachet is a small bag or pouch filled with dried lavender flowers. The scent of lavender is known for its calming and relaxing properties.",
+    "alternateNames": "Lavender pouch",
+    "imageUrl": "https://replicate.delivery/yhqm/rZXhQZ3thDqyG9eeadtZevL6rAhlsqu7NKGLPT62LLAMMs4mA/out-0.webp"
+  },
+  {
+    "id": "Lemon balm",
+    "name": "Lemon balm",
+    "description": "Lemon balm is a fragrant herb belonging to the mint family. It is native to Europe, North Africa, and West Asia. The leaves of the lemon balm plant have a lemony scent and are often used in culinary dishes and herbal remedies.",
+    "alternateNames": "Melissa officinalis",
+    "imageUrl": "https://replicate.delivery/yhqm/m9QHQmpqOh7HKJFe9Efbgz21JvHWnJiK3nETv3beHli1Ls4mA/out-0.webp"
+  },
+  {
+    "id": "Lemon water",
+    "name": "Lemon water",
+    "description": "Lemon water is simply water mixed with freshly squeezed lemon juice. It is a popular drink that is easy to make and can be enjoyed at any time of the day.",
+    "alternateNames": "Lemonade",
+    "imageUrl": "https://replicate.delivery/yhqm/qdtWuoa16e3SVSROYFDcc88A73UPWWLeYYO9qpzzZe6eXYxNB/out-0.webp"
+  },
+  {
+    "id": "Licorice root",
+    "name": "Licorice root",
+    "description": "Licorice root is a herb that has been used for centuries in traditional medicine for its various health benefits. It is known for its sweet flavor and is commonly used as a natural remedy for various ailments.",
+    "alternateNames": "Glycyrrhiza glabra",
+    "imageUrl": "https://replicate.delivery/yhqm/4ifQ06PiKQxMOy9gmp3GbBl2BFybTnKr7PJyuY1WbPNeFWcTA/out-0.webp"
+  },
+  {
+    "id": "Licorice tea",
+    "name": "Licorice tea",
+    "description": "Licorice tea is an herbal remedy made from the root of the licorice plant. It has a sweet and somewhat spicy flavor and has been used in traditional medicine for centuries.",
+    "alternateNames": "Glycyrrhiza glabra tea",
+    "imageUrl": "https://replicate.delivery/yhqm/iUcZOHCbWZbeI67Ahfih9N2jqW4FyLEDG1iPDf6USOxDMs4mA/out-0.webp"
+  },
+  {
+    "id": "Linden flower tea",
+    "name": "Linden flower tea",
+    "description": "Linden flower tea is a herbal tea made from the dried flowers of the linden tree. It has a delicate floral aroma and a slightly sweet taste.",
+    "alternateNames": "Tilia tea",
+    "imageUrl": "https://replicate.delivery/yhqm/bVYVEECkjxY5LZdplLQyVK5lzU2421J0gM0aTUeYea39FWcTA/out-0.webp"
+  },
+  {
+    "id": "Linseed oil",
+    "name": "Linseed oil",
+    "description": "Linseed oil is derived from flaxseeds and is rich in omega-3 fatty acids. It has been used for centuries for its various health benefits.",
+    "alternateNames": "Flaxseed oil",
+    "imageUrl": "https://replicate.delivery/yhqm/cBaii8Iski5AINLkjLgCe3k00V3cQaQ9paB7hwb4J4JBDLuJA/out-0.webp"
+  },
+  {
+    "id": "Magnesium supplements",
+    "name": "Magnesium supplements",
+    "description": "Magnesium supplements are oral tablets or capsules containing magnesium, an essential mineral that plays a crucial role in various bodily functions.",
+    "alternateNames": "Magnesium capsules, magnesium tablets",
+    "imageUrl": "https://replicate.delivery/yhqm/DH3HZFfvF71JDampfH6uusqn3607Qfb4PTwuLSeqo9GnYYxNB/out-0.webp"
+  },
+  {
+    "id": "Manuka honey",
+    "name": "Manuka honey",
+    "description": "Manuka honey is a type of honey that is produced in New Zealand and Australia from the nectar of the Manuka tree. What sets Manuka honey apart from other types of honey is its high levels of methylglyoxal, a compound that gives it its antibacterial properties.",
+    "alternateNames": "Leptospermum honey",
+    "imageUrl": "https://replicate.delivery/yhqm/MosIfYr756ypekMH1GzKNvMnJdbfHE3RhLV5eGnYPX1SZYxNB/out-0.webp"
+  },
+  {
+    "id": "Marshmallow root",
+    "name": "Marshmallow root",
+    "description": "Marshmallow root is a perennial herb that has a long history of use in traditional medicine for its soothing properties. The root of the marshmallow plant is harvested and used in various forms such as teas, tinctures, and capsules.",
+    "alternateNames": "Althaea officinalis",
+    "imageUrl": "https://replicate.delivery/yhqm/jvaHWsAfoCXgK62BUe2W7bBVqX9YfScwvJZkHo4VObzdMs4mA/out-0.webp"
+  },
+  {
+    "id": "Melatonin",
+    "name": "Melatonin",
+    "description": "Melatonin is a hormone naturally produced by the pineal gland in the brain that helps regulate the sleep-wake cycle. It is also available as a supplement and is commonly used to improve sleep.",
+    "alternateNames": "N-acetyl-5-methoxy tryptamine",
+    "imageUrl": "https://replicate.delivery/yhqm/3ygOyxNKcTKFEdedO4Ve4naVjAtVUm8vTbwwt3oJfpRXMs4mA/out-0.webp"
+  },
+  {
+    "id": "Milk thistle",
+    "name": "Milk thistle",
+    "description": "Milk thistle is an herbal remedy derived from the seeds of the milk thistle plant. It has been used for centuries for its potential health benefits, particularly for liver health.",
+    "alternateNames": "Silybum marianum",
+    "imageUrl": "https://replicate.delivery/yhqm/bLZt7mgdqFLiN9RN8SnMwpK8f0w2fvV5snleCZjD1SfAZYxNB/out-0.webp"
+  },
+  {
+    "id": "Moringa",
+    "name": "Moringa",
+    "description": "Moringa is a nutrient-rich plant that is native to India and has been used for centuries as a natural remedy for various health issues.",
+    "alternateNames": "Drumstick tree, Miracle tree",
+    "imageUrl": "https://replicate.delivery/yhqm/T1kTA6KlRqbBDN0m2x3KD1y8OdcfCTzsA1bjm8zKU0vKDLuJA/out-0.webp"
+  },
+  {
+    "id": "Mulberry leaves",
+    "name": "Mulberry leaves",
+    "description": "Mulberry leaves are the large, dark green, and glossy leaves of the mulberry tree. They have been used in traditional Chinese medicine for centuries due to their numerous health benefits.",
+    "alternateNames": "Morus leaves",
+    "imageUrl": "https://replicate.delivery/yhqm/whMnxzXB9Pb3FRC6IDqO9jyETKgJZTny7jH7UuHAJI1lhF3E/out-0.webp"
+  },
+  {
+    "id": "Mullein tea",
+    "name": "Mullein tea",
+    "description": "Mullein tea is a traditional herbal remedy made from the leaves and flowers of the mullein plant. It has been used for centuries in natural medicine to help alleviate various respiratory and other health issues.",
+    "alternateNames": "Verbascum thapsus tea",
+    "imageUrl": "https://replicate.delivery/yhqm/4hANNKFEn06vHRdnoF84pY9NhI7GaUpBqbffI6CwmjpNGWcTA/out-0.webp"
+  },
+  {
+    "id": "Mustard poultice",
+    "name": "Mustard poultice",
+    "description": "Mustard poultice is a traditional remedy used for its heating properties. It is made by mixing powdered mustard seeds with flour and warm water to create a paste that is applied topically to the skin.",
+    "alternateNames": "Mustard plaster",
+    "imageUrl": "https://replicate.delivery/yhqm/RRNzHeoDdRVIaq9NmHa9PfNCU2dp1HTu53MVxtUZDlbSGWcTA/out-0.webp"
+  },
+  {
+    "id": "Myrrh",
+    "name": "Myrrh",
+    "description": "Myrrh is a resin that is extracted from the Commiphora myrrha tree, native to Somalia, Ethiopia, and the Arabian Peninsula. It has been used for centuries in traditional medicine for its medicinal properties.",
+    "alternateNames": "Commiphora myrrha",
+    "imageUrl": "https://replicate.delivery/yhqm/C3g4569nufzsaq47F37mXrvCVvZfOhLbN7F0MITLTArZGWcTA/out-0.webp"
+  },
+  {
+    "id": "N-acetylcysteine",
+    "name": "N-acetylcysteine",
+    "description": "N-acetylcysteine is a supplement form of the amino acid cysteine. It is known for its antioxidant properties and its ability to boost levels of the antioxidant enzyme glutathione in the body.",
+    "alternateNames": "NAC",
+    "imageUrl": "https://replicate.delivery/yhqm/q2enzeIs7mr0u03cbkDEpgawaWBQMwydIf2FHBS94AFfZYxNB/out-0.webp"
+  },
+  {
+    "id": "Name",
+    "name": "Name",
+    "description": "Overview",
+    "alternateNames": "Alternate Name",
+    "imageUrl": "Image URL"
+  },
+  {
+    "id": "Nasal saline rinse",
+    "name": "Nasal saline rinse",
+    "description": "Nasal saline rinse involves using a saltwater solution to clean out the nasal passages by gently flushing them out. This technique has been used for centuries as a natural remedy for nasal congestion and sinus infections.",
+    "alternateNames": "Nasal irrigation, nasal wash",
+    "imageUrl": "https://replicate.delivery/yhqm/J5zGqbgSarbnLZrlrZ7E7twxrngeOcdf0upHf7Z5P2WGNs4mA/out-0.webp"
+  },
+  {
+    "id": "Neem oil",
+    "name": "Neem oil",
+    "description": "Neem oil is a natural oil extracted from the seeds of the neem tree, Azadirachta indica, which is native to the Indian subcontinent. It has been used for centuries in traditional medicine and skincare due to its many beneficial properties.",
+    "alternateNames": "Azadirachta indica oil",
+    "imageUrl": "https://replicate.delivery/yhqm/ZzR0EomCJB6EP5OpEn0bBFadfnYGwepcJy6C64WTSbPcGWcTA/out-0.webp"
+  },
+  {
+    "id": "Nettle tea",
+    "name": "Nettle tea",
+    "description": "Nettle tea is a herbal tea made from the leaves, stems, or roots of the stinging nettle plant. The plant has been used for centuries for its medicinal properties.",
+    "alternateNames": "Stinging nettle tea",
+    "imageUrl": "https://replicate.delivery/yhqm/rtaO6oJgeOwQEa0GbUGJeZ0js6FazwYL04QLTfR6uY70Ms4mA/out-0.webp"
+  },
+  {
+    "id": "Nigella sativa (black seed)",
+    "name": "Nigella sativa (black seed)",
+    "description": "Nigella sativa is a flowering plant native to Southwest Asia. The seeds of this plant, commonly known as black seeds, have been used for medicinal purposes for centuries and have a long history in traditional medicine.",
+    "alternateNames": "Black cumin seed, nigella",
+    "imageUrl": "https://replicate.delivery/yhqm/QDXZlnMJgNKfVSzxs6fl7kZNZ973geaclUTjivt4tD9ONs4mA/out-0.webp"
+  },
+  {
+    "id": "Night jasmine",
+    "name": "Night jasmine",
+    "description": "Night jasmine is a flowering plant known for its strong, sweet fragrance that blooms at night. The plant is native to South Asia and is widely used in traditional medicine.",
+    "alternateNames": "Parijat",
+    "imageUrl": "https://replicate.delivery/yhqm/QpdnVrI19yrLPtqzCnECLrPSeR2NAQEwifBcVKKcIZzlGWcTA/out-0.webp"
+  },
+  {
+    "id": "Noni extract",
+    "name": "Noni extract",
+    "description": "Noni extract is derived from the fruit of the Noni plant, which is native to Southeast Asia. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Morinda citrifolia extract",
+    "imageUrl": "https://replicate.delivery/yhqm/0PO6fDxqg4WcZi5neaZlfGaXeXOLqquEdk7kEcNS2rKoaYxNB/out-0.webp"
+  },
+  {
+    "id": "Noni juice",
+    "name": "Noni juice",
+    "description": "Noni juice is a tropical fruit juice made from the fruit of the Noni tree, also known as Morinda citrifolia. The fruit has been used for centuries in traditional medicine in Polynesia, Southeast Asia, and Hawaii.",
+    "alternateNames": "Morinda citrifolia juice",
+    "imageUrl": "https://replicate.delivery/yhqm/uQ4NZ5N1jiprGN3juw5LE8zfgBteqCAnBsUtwvjnbz2hGWcTA/out-0.webp"
+  },
+  {
+    "id": "Nutmeg",
+    "name": "Nutmeg",
+    "description": "Nutmeg is a popular spice that is derived from the seed of the nutmeg tree. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Myristica fragrans",
+    "imageUrl": "https://replicate.delivery/yhqm/RgQkAKBkZWJ0ClzjOaMXkpC4wIES8RzJ2De5VfdhEcmeMs4mA/out-0.webp"
+  },
+  {
+    "id": "Nux vomica",
+    "name": "Nux vomica",
+    "description": "Nux vomica is a homeopathic remedy made from the seeds of the strychnine tree. It is commonly used to treat a variety of ailments, especially those related to overindulgence in food, alcohol, or stimulants.",
+    "alternateNames": "Strychnine tree",
+    "imageUrl": "https://replicate.delivery/yhqm/nrJYb45jTLILPxO73mBoHPtceFQYQ1rj5QKzqjfcUGipGWcTA/out-0.webp"
+  },
+  {
+    "id": "Oatmeal Bath",
+    "name": "Oatmeal Bath",
+    "description": "An oatmeal bath involves soaking in a bathtub filled with lukewarm water mixed with finely ground oatmeal.",
+    "alternateNames": "Oatmeal Soak",
+    "imageUrl": "https://replicate.delivery/yhqm/ZGIqNVTnWHqGFlAVWwoewehyDkhvfjlRLI70kt01OnmhNs4mA/out-0.webp"
+  },
+  {
+    "id": "Olive leaf extract",
+    "name": "Olive leaf extract",
+    "description": "Olive leaf extract is taken from the leaves of the olive tree and contains a compound called oleuropein, which is known for its powerful antioxidant and anti-inflammatory properties.",
+    "alternateNames": "Oleuropein",
+    "imageUrl": "https://replicate.delivery/yhqm/0PkVB87y1ezuG6oOMt3gcKir5Foc4op7IpmeYZ6FeXDzNs4mA/out-0.webp"
+  },
+  {
+    "id": "Olive oil",
+    "name": "Olive oil",
+    "description": "Olive oil is a type of oil extracted from the fruit of the olive tree. It is commonly used in cooking and as a natural remedy for various health issues.",
+    "alternateNames": "Olea europaea",
+    "imageUrl": "https://replicate.delivery/yhqm/yXv1FNQIwQ5nCd0PSHd17O7M4Cn7XN2VjGeposTqx5SWDLuJA/out-0.webp"
+  },
+  {
+    "id": "Onion compress",
+    "name": "Onion compress",
+    "description": "An onion compress or poultice is a natural remedy that involves applying a mixture of finely chopped or blended onions onto the skin to help with various health concerns.",
+    "alternateNames": "Onion poultice",
+    "imageUrl": "https://replicate.delivery/yhqm/3Pb32LlIMSIAFBRFUAWEU5qL7uQUwWem1xW3Ksr0qgwZDLuJA/out-0.webp"
+  },
+  {
+    "id": "Oolong tea",
+    "name": "Oolong tea",
+    "description": "Oolong tea is a traditional Chinese tea made from the leaves of the Camellia sinensis plant. It is partially oxidized, giving it a unique flavor profile that falls between green and black tea.",
+    "alternateNames": "Wulong tea",
+    "imageUrl": "https://replicate.delivery/yhqm/zLde2LD8EUxTaiWAM1lyPrQhw5K3ZHkrzkf0r1lfa9suNs4mA/out-0.webp"
+  },
+  {
+    "id": "Orange peel",
+    "name": "Orange peel",
+    "description": "Orange peel refers to the outer, colorful skin of oranges that is typically discarded. However, it can also be dried and used in alternative medicine remedies.",
+    "alternateNames": "Citrus sinensis",
+    "imageUrl": "https://replicate.delivery/yhqm/xXOHGQ9EpKp1DlTbPhqHtlffXAJ3xncIMpf5fzJFGiXIbYxNB/out-0.webp"
+  },
+  {
+    "id": "Oregano Oil",
+    "name": "Oregano Oil",
+    "description": "Oregano oil is derived from the leaves and flowers of the oregano plant (Origanum vulgare). It is a powerful essential oil with antimicrobial, antifungal, and antiviral properties.",
+    "alternateNames": "Oil of Oregano",
+    "imageUrl": "https://replicate.delivery/yhqm/diXCfXzrP2S2DCrGg6NFUPJOVFaDF0UwWIKF6CdMSqeuGWcTA/out-0.webp"
+  },
+  {
+    "id": "Osha root",
+    "name": "Osha root",
+    "description": "Osha root is a medicinal herb native to the Rocky Mountains in North America. It has been used for centuries by Native American tribes for its health benefits.",
+    "alternateNames": "Ligusticum porteri",
+    "imageUrl": "https://replicate.delivery/yhqm/kUKS18qZBwaaNZbHqRADWeRqW21yIBsbzBbWyfXeiNW6Ns4mA/out-0.webp"
+  },
+  {
+    "id": "Osmotic laxatives",
+    "name": "Osmotic laxatives",
+    "description": "Osmotic laxatives are a type of medication that work by drawing water into the intestines, softening the stool and making it easier to pass.",
+    "alternateNames": "Saline laxatives",
+    "imageUrl": "https://replicate.delivery/yhqm/uVE9MR0tNoIrJ9JCUr0Pgivb38QtRUqWyrzBI559N56uhF3E/out-0.webp"
+  },
+  {
+    "id": "Oxytocin",
+    "name": "Oxytocin",
+    "description": "Oxytocin is a hormone produced by the hypothalamus and released by the pituitary gland. It plays a crucial role in social bonding, childbirth, and breastfeeding.",
+    "alternateNames": "Love hormone or bonding hormone",
+    "imageUrl": "https://replicate.delivery/yhqm/kVUeiRh9KK1UbStGSbwLeG0ATHKEjwpNmYW3EcuiaJr1GWcTA/out-0.webp"
+  },
+  {
+    "id": "Papaya enzymes",
+    "name": "Papaya enzymes",
+    "description": "Papaya enzymes are natural substances found in papaya fruit that have proteolytic properties, meaning they can break down proteins into smaller molecules. These enzymes are most concentrated in the fruit's flesh and seeds.",
+    "alternateNames": "Papain",
+    "imageUrl": "https://replicate.delivery/yhqm/V8schhYDIOKzNZRadU1pS9RlMrtFONOPnn8NXeAWH5TmDLuJA/out-0.webp"
+  },
+  {
+    "id": "Parsley leaf",
+    "name": "Parsley leaf",
+    "description": "Parsley leaf is a well-known herb that is commonly used as a garnish in cooking. However, it also has many health benefits and medicinal properties.",
+    "alternateNames": "Petroselinum crispum",
+    "imageUrl": "https://replicate.delivery/yhqm/CqubewqkXlWzf0AYfxQj0y5Y0ChYp9jh4vdfYikwoeB15wibC/out-0.webp"
+  },
+  {
+    "id": "Passionflower",
+    "name": "Passionflower",
+    "description": "Passionflower is a plant native to the southeastern United States and Central and South America. It has been used for centuries to promote relaxation and ease symptoms of anxiety and insomnia.",
+    "alternateNames": "Passiflora incarnata",
+    "imageUrl": "https://replicate.delivery/yhqm/X1yylheIyuzFaK7ZsH3JxlffEbwPQooIxvxfSvfDk3qb4wibC/out-0.webp"
+  },
+  {
+    "id": "Peppermint oil",
+    "name": "Peppermint oil",
+    "description": "Peppermint oil is a popular essential oil derived from the peppermint plant. It has a refreshing and cooling sensation when applied topically or inhaled.",
+    "alternateNames": "Mentha piperita oil",
+    "imageUrl": "https://replicate.delivery/yhqm/GIPnhx1RJ9brP5cNNOXPXB8OA19wb9afpx7UMAFbMBDfGWcTA/out-0.webp"
+  },
+  {
+    "id": "Peppermint tea",
+    "name": "Peppermint tea",
+    "description": "Peppermint tea is a herbal infusion made from the leaves of the peppermint plant. It has a refreshing and minty flavor, making it a popular choice for both culinary and medicinal purposes.",
+    "alternateNames": "Mentha piperita tea",
+    "imageUrl": "https://replicate.delivery/yhqm/iRdGLYrqWw6YP5P5fmVIewMF1hA1XGAmFX2FK8yGR6xFHWcTA/out-0.webp"
+  },
+  {
+    "id": "Pine bark extract",
+    "name": "Pine bark extract",
+    "description": "Pine bark extract is a supplement derived from the bark of maritime pine trees. It contains a mixture of bioflavonoids, procyanidins and organic acids that have powerful antioxidant properties.",
+    "alternateNames": "Pycnogenol",
+    "imageUrl": "https://replicate.delivery/yhqm/TH49g0bFxJ7sPNdfnU8mKuEgYgzkeAQdyQLN7FpiYBeOOs4mA/out-0.webp"
+  },
+  {
+    "id": "Plantain leaf",
+    "name": "Plantain leaf",
+    "description": "Plantain leaf is a versatile herb that has been used for centuries for its medicinal properties. It is a perennial weed that is widely found in various regions around the world.",
+    "alternateNames": "Broadleaf plantain, ribwort",
+    "imageUrl": "https://replicate.delivery/yhqm/hVAzPVQ6EUo9Ch2O2WwWIMvkCswN6MKFffAfT7tQ3emocYxNB/out-0.webp"
+  },
+  {
+    "id": "Pomegranate juice",
+    "name": "Pomegranate juice",
+    "description": "Pomegranate juice is a popular fruit juice made from the seeds of the pomegranate fruit. It is rich in antioxidants, vitamins, and minerals, making it a popular choice for overall health and wellness.",
+    "alternateNames": "Punica granatum juice",
+    "imageUrl": "https://replicate.delivery/yhqm/eRMAXlwpiVSfXUxAqSiQqIrrUmFq9tkf3acZnaZIGMMFOs4mA/out-0.webp"
+  },
+  {
+    "id": "Primrose oil",
+    "name": "Primrose oil",
+    "description": "Primrose oil is derived from the evening primrose plant, and is rich in gamma-linolenic acid (GLA), an essential fatty acid. It has been used for its medicinal properties for centuries.",
+    "alternateNames": "Evening primrose oil",
+    "imageUrl": "https://replicate.delivery/yhqm/6K0zWkpk9VolIROBg6BjqdLnqvclzztpSeGw6TyKMOukDLuJA/out-0.webp"
+  },
+  {
+    "id": "Probiotics",
+    "name": "Probiotics",
+    "description": "Probiotics are live bacteria and yeasts that are good for your digestive system. They are often referred to as \"good\" or \"friendly\" bacteria because they help keep your gut healthy.",
+    "alternateNames": "Gut-friendly bacteria",
+    "imageUrl": "https://replicate.delivery/yhqm/2tfC55pNpenvHEfOFBJpn7TpNCzL28DlQDYHyJpAtfSAcYxNB/out-0.webp"
+  },
+  {
+    "id": "Quaker Oats",
+    "name": "Quaker Oats",
+    "description": "Quaker Oats are a type of oatmeal that is made from whole grain oats. They are commonly consumed as a healthy breakfast option.",
+    "alternateNames": "Oatmeal",
+    "imageUrl": "https://replicate.delivery/yhqm/AKF5VJFD8KaBJBa56UNE4f2HSI35qPaBFlgGTrfSfpO1Os4mA/out-0.webp"
+  },
+  {
+    "id": "Quassia amara extract",
+    "name": "Quassia amara extract",
+    "description": "Quassia amara extract is derived from the bark of the Quassia amara tree, native to South America. It has been used in traditional medicine for its various health benefits.",
+    "alternateNames": "Amargo wood extract",
+    "imageUrl": "https://replicate.delivery/yhqm/ueqjsGZcm0U1B6cLkTX8EeYJUraiDyK3gqHvZYEfvvq2Os4mA/out-0.webp"
+  },
+  {
+    "id": "Quassia bark",
+    "name": "Quassia bark",
+    "description": "Quassia bark comes from the Quassia amara tree, a small tree native to South America. It has a very bitter taste and is commonly used in herbal medicine.",
+    "alternateNames": "Bitterwood",
+    "imageUrl": "https://replicate.delivery/yhqm/zoE1f6227230CqaoYaiHfj8RWzl3e6TuxMjeTIaprHqGdYxNB/out-0.webp"
+  },
+  {
+    "id": "Queen Anne's lace (Daucus carota)",
+    "name": "Queen Anne's lace (Daucus carota)",
+    "description": "Queen Anne's lace is a flowering plant that is commonly found throughout North America, Europe, and Asia. It has delicate white flowers that resemble lace, hence its name.",
+    "alternateNames": "Wild carrot",
+    "imageUrl": "https://replicate.delivery/yhqm/sNUgQInkuvYVJ5Qr7Hijf0CSPoNv6eIe1c1Gf5WEoIXhdYxNB/out-0.webp"
+  },
+  {
+    "id": "Quercetin supplements",
+    "name": "Quercetin supplements",
+    "description": "Quercetin is a type of flavonoid antioxidant found in plants like fruits, vegetables, and grains. It is commonly taken in supplement form to provide additional health benefits.",
+    "alternateNames": "Flavonoid supplements",
+    "imageUrl": "https://replicate.delivery/yhqm/CS1yAmtOwg4gOt2GWSteNfhZ9l9RzmczWm2YTyIg7pOPHWcTA/out-0.webp"
+  },
+  {
+    "id": "Quercus alba bark",
+    "name": "Quercus alba bark",
+    "description": "Quercus alba bark is the bark of the white oak tree, native to North America. It has been used for centuries in traditional medicine for its therapeutic properties.",
+    "alternateNames": "White oak bark",
+    "imageUrl": "https://replicate.delivery/yhqm/XFB8eLxgNegGxEPTowPrVUGXWgNKInMRQGFAorDIV75fOs4mA/out-0.webp"
+  },
+  {
+    "id": "Quillaja saponaria",
+    "name": "Quillaja saponaria",
+    "description": "Quillaja saponaria is a tree native to South America that has been traditionally used for its medicinal properties. The inner bark of the tree contains saponins, which are natural surfactants with soap-like properties.",
+    "alternateNames": "Soapbark",
+    "imageUrl": "https://replicate.delivery/yhqm/56hM3ccXzrb3OJ59jeDXESLCfHg7f1l71j4kCymhNyz7Os4mA/out-0.webp"
+  },
+  {
+    "id": "Quince fruit",
+    "name": "Quince fruit",
+    "description": "Quince fruit is a fragrant, golden-yellow fruit that belongs to the same family as apples and pears. It has a unique flavor and is commonly used in cooking and baking.",
+    "alternateNames": "Cydonia oblonga",
+    "imageUrl": "https://replicate.delivery/yhqm/wEZnIUUflWXpVavGEsKf6z67sScXfyaNiaeU8epA5e7y0hF3E/out-0.webp"
+  },
+  {
+    "id": "Quinine",
+    "name": "Quinine",
+    "description": "Quinine is a compound extracted from the bark of the cinchona tree. It has been used for centuries as a treatment for malaria and has also been used to relieve muscle cramps.",
+    "alternateNames": "Cinchona bark extract",
+    "imageUrl": "https://replicate.delivery/yhqm/SstKCH0ipBZIJtQ41EqxHMtkqorQYFwygA8vVu4aBzn1hF3E/out-0.webp"
+  },
+  {
+    "id": "Quinoa",
+    "name": "Quinoa",
+    "description": "Quinoa is a grain-like seed that is a popular health food due to its high nutritional content. It is gluten-free and is a good source of protein, fiber, and various vitamins and minerals.",
+    "alternateNames": null,
+    "imageUrl": "https://replicate.delivery/yhqm/ly1SfFBVsJXMBqF89eOiIYUBp0atL8zISyQGkLyCwtxVHWcTA/out-0.webp"
+  },
+  {
+    "id": "Raspberry leaf tea",
+    "name": "Raspberry leaf tea",
+    "description": "Raspberry leaf tea is made from the dried leaves of the red raspberry plant. It has been used for centuries as a traditional herbal remedy for a variety of health issues.",
+    "alternateNames": "Red raspberry leaf tea",
+    "imageUrl": "https://replicate.delivery/yhqm/GBvF6dwNfiU6fUu8i2AdBuofflReH9wN1SGedncXIf3egHWcTA/out-0.webp"
+  },
+  {
+    "id": "Raw Honey",
+    "name": "Raw Honey",
+    "description": "Raw honey is a natural sweet substance produced by honeybees from the nectar of plants. It is not pasteurized or processed, preserving its natural enzymes and nutrients.",
+    "alternateNames": "None",
+    "imageUrl": "https://replicate.delivery/yhqm/rB9Sfp0Qf5ua8U449EUZC0pJM2iRgfWPwBqrljh7maWYPs4mA/out-0.webp"
+  },
+  {
+    "id": "Red clover",
+    "name": "Red clover",
+    "description": "Red clover is a wild plant belonging to the legume family. It is commonly used for its medicinal properties and is often made into supplements, teas, or extracts.",
+    "alternateNames": "Trifolium pratense",
+    "imageUrl": "https://replicate.delivery/yhqm/TO80UJnkeTTxR6RuLTfYI6Vuq5uBmcs8yYG56kouWCgpHWcTA/out-0.webp"
+  },
+  {
+    "id": "Reishi mushroom",
+    "name": "Reishi mushroom",
+    "description": "Reishi mushroom is a type of fungus that has been used in traditional Chinese medicine for centuries. It is known for its medicinal properties and is often referred to as the \"mushroom of immortality\".",
+    "alternateNames": "Ganoderma lucidum",
+    "imageUrl": "https://replicate.delivery/yhqm/EJQeuBpaf3vbAknKddNHdfOG80MOMB5Q3v7DHMsMKQrWPs4mA/out-0.webp"
+  },
+  {
+    "id": "Rhodiola (Rhodiola rosea)",
+    "name": "Rhodiola (Rhodiola rosea)",
+    "description": "Rhodiola is an herb that grows in cold regions of the world, including the Arctic and mountainous regions of Europe and Asia. It has been used in traditional medicine for centuries to help increase energy, endurance, and mental focus.",
+    "alternateNames": "Golden root, arctic root",
+    "imageUrl": "https://replicate.delivery/yhqm/VUifspzWOvQncqYzWHTHsQ4FdxtV0KryQcaebW8AYgNiHWcTA/out-0.webp"
+  },
+  {
+    "id": "Rice water",
+    "name": "Rice water",
+    "description": "Rice water is the starchy water left over after rice is cooked or soaked. It has been used for centuries in various cultures as a beauty treatment for skin and hair.",
+    "alternateNames": "Rice water rinse",
+    "imageUrl": "https://replicate.delivery/yhqm/E9VCMpofKkSSca20sIwXuhaDVyK5sHU0J9X8nxFHq6AyDLuJA/out-0.webp"
+  },
+  {
+    "id": "Rooibos tea",
+    "name": "Rooibos tea",
+    "description": "Rooibos tea is a herbal tea made from the leaves of the rooibos plant, native to South Africa. It has a naturally sweet taste and a reddish color when brewed.",
+    "alternateNames": "Red bush tea",
+    "imageUrl": "https://replicate.delivery/yhqm/oYBjZfOCbYRwXyCNr7J8LeSrwU7xuvQeaedTTU9YikH4ewibC/out-0.webp"
+  },
+  {
+    "id": "Rosemary",
+    "name": "Rosemary",
+    "description": "Rosemary is an aromatic herb that belongs to the mint family. It is commonly used in cooking and has a strong, pine-like fragrance.",
+    "alternateNames": "Rosmarinus officinalis",
+    "imageUrl": "https://replicate.delivery/yhqm/HYdedPNHurweQkfuRgXPfZC7J67be4jNQdpdfHU5fLcqzDLuJA/out-0.webp"
+  },
+  {
+    "id": "Rosewater",
+    "name": "Rosewater",
+    "description": "Rosewater is a byproduct of the distillation of rose petals to create rose essential oil. It has been used for centuries as a natural beauty product and in various cultural and religious ceremonies.",
+    "alternateNames": "Rose hydrosol",
+    "imageUrl": "https://replicate.delivery/yhqm/v9j7m635EiboAlBB3PG95IpTnVgHbOiRRuELNdbunFs5hF3E/out-0.webp"
+  },
+  {
+    "id": "Rubbing alcohol",
+    "name": "Rubbing alcohol",
+    "description": "Rubbing alcohol is a common household product that is used as a disinfectant and antiseptic. It is made up of isopropyl alcohol which has antimicrobial properties.",
+    "alternateNames": "Isopropyl alcohol",
+    "imageUrl": "https://replicate.delivery/yhqm/YfC5IvCBfJljt0uvmOmmBS0qLJG4eKMNV1miPSSeDBzBfwibC/out-0.webp"
+  },
+  {
+    "id": "Saffron",
+    "name": "Saffron",
+    "description": "Saffron is a spice derived from the flower of Crocus sativus, which is native to Southwest Asia. It is known for its distinctive flavor, aroma, and bright yellow color.",
+    "alternateNames": "Crocus sativus",
+    "imageUrl": "https://replicate.delivery/yhqm/IltxO4ewnUzsCCrbaqq5MSx6AnLyiZ9uL38XxeMmLeDnPs4mA/out-0.webp"
+  },
+  {
+    "id": "Sage",
+    "name": "Sage",
+    "description": "Sage is a herb that is commonly used in cooking for its strong flavor, but it also has medicinal properties. It has been used for centuries in traditional medicine for its various health benefits.",
+    "alternateNames": "Salvia officinalis",
+    "imageUrl": "https://replicate.delivery/yhqm/Kfg0tGRmWVRyA6U356jhc6zuErkA8hyEcPk00wGUvku6DLuJA/out-0.webp"
+  },
+  {
+    "id": "Saw Palmetto",
+    "name": "Saw Palmetto",
+    "description": "Saw Palmetto is a plant that is commonly used as a supplement to improve prostate health. It is commonly found in North America.",
+    "alternateNames": "Serenoa repens",
+    "imageUrl": "https://replicate.delivery/yhqm/8SfkGRpFX2XTTyhOF1wsYpVEYGSSSJFOhYI2Po7UMp1fHWcTA/out-0.webp"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "description": "Senna is an herb that is commonly used as a natural laxative to treat constipation. It contains compounds called sennosides that have a stimulating effect on the intestines.",
+    "alternateNames": "Cassia senna, Alexandrian senna, Indian senna",
+    "imageUrl": "https://replicate.delivery/yhqm/I5YSL7YV0d4MGVVEakeHCGbpfEZiaQYsYzPkaZPpj5OePs4mA/out-0.webp"
+  },
+  {
+    "id": "Shepherd's Purse",
+    "name": "Shepherd's Purse",
+    "description": "Shepherd's purse is a medicinal herb that has been used for centuries for its health benefits. It is known for its small white flowers and heart-shaped seed pods.",
+    "alternateNames": "Capsella bursa-pastoris",
+    "imageUrl": "https://replicate.delivery/yhqm/vitIAz64nIZGIJBqHx99HEBCR56gSxAci8gr9qHeuMG9DLuJA/out-0.webp"
+  },
+  {
+    "id": "Skullcap",
+    "name": "Skullcap",
+    "description": "Skullcap is a type of herb that belongs to the mint family. It is native to North America and has been used in traditional herbal medicine for its various health benefits.",
+    "alternateNames": "Scutellaria lateriflora",
+    "imageUrl": "https://replicate.delivery/yhqm/Z8tQyEJU09rBKJsaWr8VUyf3GZoZQy3fWWOc92fF7PEDQs4mA/out-0.webp"
+  },
+  {
+    "id": "Slippery Elm",
+    "name": "Slippery Elm",
+    "description": "Slippery elm is a species of elm tree native to North America. Its inner bark is harvested and processed into a thick gel-like substance that has been used medicinally for centuries.",
+    "alternateNames": "Ulmus rubra",
+    "imageUrl": "https://replicate.delivery/yhqm/2dyYf4sVejhehI22vk76WUBDjM6Q49Bwco76PviWoovuPs4mA/out-0.webp"
+  },
+  {
+    "id": "Spearmint",
+    "name": "Spearmint",
+    "description": "Spearmint is a herb from the mint family that is commonly used for its medicinal properties as well as its culinary uses.",
+    "alternateNames": "Mentha spicata",
+    "imageUrl": "https://replicate.delivery/yhqm/LT2YoaVfuFzgOyqGLIn4RT3F5rgKdSrc7Am3aQaKfNl4HWcTA/out-0.webp"
+  },
+  {
+    "id": "Spirulina",
+    "name": "Spirulina",
+    "description": "Spirulina is a type of blue-green algae that is rich in nutrients and considered a superfood. It is commonly consumed in supplement form or added to smoothies and juices.",
+    "alternateNames": "Blue-green algae",
+    "imageUrl": "https://replicate.delivery/yhqm/lgEqQ5otagY2FhRyzvNT1tV1OZQMNS1QBiE1Q43uUKAfDLuJA/out-0.webp"
+  },
+  {
+    "id": "St. John's Wort",
+    "name": "St. John's Wort",
+    "description": "St. John's Wort is a plant with yellow flowers that is commonly used as a medicinal herb.",
+    "alternateNames": "Hypericum perforatum",
+    "imageUrl": "https://replicate.delivery/yhqm/cvX6UaPusa7fLCekyo16pNRkrprF6k7WRUc7ftuDr8GlPs4mA/out-0.webp"
+  },
+  {
+    "id": "Tea tree oil",
+    "name": "Tea tree oil",
+    "description": "Tea tree oil is an essential oil that comes from the leaves of the tea tree plant. It has been used for centuries for its various medicinal properties.",
+    "alternateNames": "Melaleuca oil",
+    "imageUrl": "https://replicate.delivery/yhqm/JvKkfRtzGfsshE4yd61a8UwnSWrWiud4q9ONRIQzcsDGIWcTA/out-0.webp"
+  },
+  {
+    "id": "Thistle",
+    "name": "Thistle",
+    "description": "Thistle is a flowering herbaceous plant that is commonly used for medicinal purposes. The most commonly used part of the plant is the seeds, which are known for their therapeutic properties.",
+    "alternateNames": "Milk thistle",
+    "imageUrl": "https://replicate.delivery/yhqm/9me2fh3U2MgehIfv4esbBOCVXfUc3J2XD7FvqOojyYNwCiF3E/out-0.webp"
+  },
+  {
+    "id": "Thyme",
+    "name": "Thyme",
+    "description": "Thyme is an aromatic herb native to the Mediterranean region and commonly used in cooking and natural remedies. It has antibacterial, antifungal, and antiseptic properties.",
+    "alternateNames": "Thymus vulgaris",
+    "imageUrl": "https://replicate.delivery/yhqm/DbLQfX5hxcSBDKnccQW5nfpLd7TGSpoV1N3SwBW91QoEIWcTA/out-0.webp"
+  },
+  {
+    "id": "Thyme tea",
+    "name": "Thyme tea",
+    "description": "Thyme tea is an herbal tea made from the leaves of the Thymus vulgaris plant. It has been used for centuries for its medicinal properties and is known for its strong flavor and aroma.",
+    "alternateNames": "Thymus vulgaris tea",
+    "imageUrl": "https://replicate.delivery/yhqm/xJvrSL85oWLTMRfnM1V2lz4EhW6NeZlfJ1gRczVZTAOhQs4mA/out-0.webp"
+  },
+  {
+    "id": "Tiger Balm",
+    "name": "Tiger Balm",
+    "description": "Tiger Balm is a topical ointment that has been used for centuries in traditional Chinese medicine. It is a blend of herbal ingredients, including camphor, menthol, clove oil, and cassia oil, that work together to provide relief from aches, pains, and other discomforts.",
+    "alternateNames": null,
+    "imageUrl": "https://replicate.delivery/yhqm/feSZpPPxrKq3CEfwStq7TzsMPH67kOcGZX9ZM9Rph29lQs4mA/out-0.webp"
+  },
+  {
+    "id": "Tryptophan",
+    "name": "Tryptophan",
+    "description": "Tryptophan is an essential amino acid that is important for the production of serotonin, a neurotransmitter that regulates mood, sleep, and appetite.",
+    "alternateNames": "L-tryptophan",
+    "imageUrl": "https://replicate.delivery/yhqm/sg13uvb4BX6faCRb73UhYxy6AOYLeDghuEfFVoxxuplQQs4mA/out-0.webp"
+  },
+  {
+    "id": "Tulsi",
+    "name": "Tulsi",
+    "description": "Tulsi is an aromatic plant in the mint family that is commonly used in traditional Indian medicine. It has a strong, pungent aroma and is believed to have various health benefits.",
+    "alternateNames": "Holy basil",
+    "imageUrl": "https://replicate.delivery/yhqm/U7yk1SDRd1qFDB9jIffKrVgs2Y2wc19SD2sLEDipQXtKIWcTA/out-0.webp"
+  },
+  {
+    "id": "Turmeric",
+    "name": "Turmeric",
+    "description": "Turmeric is a spice that comes from the turmeric plant. It is commonly used in Asian cuisine and is known for its bright yellow color and distinct flavor.",
+    "alternateNames": "Curcuma longa",
+    "imageUrl": "https://replicate.delivery/yhqm/tPD9pF2gESL4IZRaQLO99vUb70IopGoJAoJFAHs5nDeBELuJA/out-0.webp"
+  },
+  {
+    "id": "Turmeric milk",
+    "name": "Turmeric milk",
+    "description": "Turmeric milk is a traditional Ayurvedic drink made by heating milk with turmeric and other spices. It is known for its anti-inflammatory and antioxidant properties.",
+    "alternateNames": "Golden milk",
+    "imageUrl": "https://replicate.delivery/yhqm/AGTIjXz9ROaOCFaJRCfq9JJF8iwicKcyeZqRfA12DuLfgYxNB/out-0.webp"
+  },
+  {
+    "id": "Ulluco",
+    "name": "Ulluco",
+    "description": "Ulluco is a tuberous root vegetable native to the Andes region of South America. It is a popular crop in countries like Peru, Bolivia, and Ecuador.",
+    "alternateNames": "Papa amarilla (Yellow potato)",
+    "imageUrl": "https://replicate.delivery/yhqm/SUeVTpdffOfiYQX8FhmXje5l3Qh9FLhcYedBTLh8G0wJHiF3E/out-0.webp"
+  },
+  {
+    "id": "Ulmus Rubra (Slippery Elm)",
+    "name": "Ulmus Rubra (Slippery Elm)",
+    "description": "Slippery elm is a species of elm tree native to North America. The inner bark of the tree is used in traditional medicine for its mucilaginous properties.",
+    "alternateNames": "Indian Elm, Red Elm",
+    "imageUrl": "https://replicate.delivery/yhqm/zyRu6jbgF4IDBJGWqlXsKmCfwsv9CedIuoEnCCslNuTXIWcTA/out-0.webp"
+  },
+  {
+    "id": "Umbelliferae",
+    "name": "Umbelliferae",
+    "description": "Umbelliferae is a family of flowering plants commonly known as the celery, carrot, or parsley family. It includes many well-known herbs and vegetables such as parsley, dill, cilantro, and carrots.",
+    "alternateNames": "Apiaceae",
+    "imageUrl": "https://replicate.delivery/yhqm/4iGjfUtESYU8OK5Uctf0UxcEr6ZF48ZRfm5EHkXPEqD9Qs4mA/out-0.webp"
+  },
+  {
+    "id": "Umeboshi",
+    "name": "Umeboshi",
+    "description": "Umeboshi is a traditional Japanese delicacy made from pickled plums that are salted and aged. They have a unique salty and tangy flavor.",
+    "alternateNames": "Pickled plums",
+    "imageUrl": "https://replicate.delivery/yhqm/ovpXyXwZVs4oFBZgXyEcz9g5jvVghGqsix2UYMnwQXBIiF3E/out-0.webp"
+  },
+  {
+    "id": "Uncaria Tomentosa (Cat's Claw)",
+    "name": "Uncaria Tomentosa (Cat's Claw)",
+    "description": "Uncaria Tomentosa, commonly known as Cat's Claw, is a medicinal plant native to the Amazon rainforest. It has been used for centuries in traditional medicine to treat a variety of ailments.",
+    "alternateNames": "Una de gato",
+    "imageUrl": "https://replicate.delivery/yhqm/HzxjDqey0iWlRC5yg7gx5Cey5SuQIMgTIY0KGOevK2s2Qs4mA/out-0.webp"
+  },
+  {
+    "id": "Ursolic Acid",
+    "name": "Ursolic Acid",
+    "description": "Ursolic acid is a natural compound found in various plants, such as apples, basil, rosemary, and lavender. It is known for its anti-inflammatory, antioxidant, and anti-cancer properties.",
+    "alternateNames": "3-beta-hydroxy-urs-12-en-28-oic acid",
+    "imageUrl": "https://replicate.delivery/yhqm/v6LAeyAEFfp7j0JNfnhSqvuvGtWINc7QYHl9FexSRhmGiYxNB/out-0.webp"
+  },
+  {
+    "id": "Urtica Dioica",
+    "name": "Urtica Dioica",
+    "description": "Urtica Dioica is a plant commonly known as stinging nettle due to the stinging sensation caused by its tiny hairs when it comes into contact with skin. It has been used in traditional medicine for its numerous health benefits.",
+    "alternateNames": "Stinging Nettle",
+    "imageUrl": "https://replicate.delivery/yhqm/W6F4GPmGtU4OOBL1SnluRjJ6WcFHBMMXQV0F6DC2y6fKELuJA/out-0.webp"
+  },
+  {
+    "id": "Urtication",
+    "name": "Urtication",
+    "description": "Urtication involves intentionally applying a stinging nettle plant to the skin in order to produce a stinging sensation. This therapy has been used for centuries as a folk remedy for various health conditions.",
+    "alternateNames": "Urtication Therapy, Stinging Nettle Therapy",
+    "imageUrl": "https://replicate.delivery/yhqm/dJBN40v1goq1P9QYriBXoF2tsMFdaUXXYLTv5hBLXm3IiF3E/out-0.webp"
+  },
+  {
+    "id": "Usnea",
+    "name": "Usnea",
+    "description": "Usnea is a lichen that grows on trees and rocks and has been used for centuries in traditional medicine for its antimicrobial and anti-inflammatory properties.",
+    "alternateNames": "Old Man's Beard",
+    "imageUrl": "https://replicate.delivery/yhqm/aTv2dWWwG5rKBdHLesXWTsCOIroTFG8qD6RK32VFyszMELuJA/out-0.webp"
+  },
+  {
+    "id": "Uva Ursi",
+    "name": "Uva Ursi",
+    "description": "Uva Ursi is a plant native to North America and Europe. The leaves of this plant have been used for various medicinal purposes for centuries.",
+    "alternateNames": "Bearberry",
+    "imageUrl": "https://replicate.delivery/yhqm/zB3Pe3SFsRXGXiTaOaD9uP1LI57sVpBVWrcfKNYLJoIUIWcTA/out-0.webp"
+  },
+  {
+    "id": "Valerian root",
+    "name": "Valerian root",
+    "description": "Valerian root is a perennial herb native to Europe and Asia that has been used for centuries as a natural remedy for various ailments, particularly sleep disorders and anxiety.",
+    "alternateNames": "Valeriana officinalis",
+    "imageUrl": "https://replicate.delivery/yhqm/zS5Hf2KWNM3XKiDHktcUJyGoT8AIKmesEGyuWahqOrVlIWcTA/out-0.webp"
+  },
+  {
+    "id": "Vanilla Bean Skin Balm",
+    "name": "Vanilla Bean Skin Balm",
+    "description": "Vanilla bean skin balm is a natural skincare product made from infusing vanilla beans into a nourishing oil base, such as coconut oil or shea butter. The soothing aroma of vanilla adds a pleasant scent to the balm, making it a luxurious treat for dry and irritated skin.",
+    "alternateNames": "Vanilla Infused Skin Balm",
+    "imageUrl": "https://replicate.delivery/yhqm/G3BUcSuyWEoROxdtLyDy9EfDez8E8myI1MiznR5bpfBeiYxNB/out-0.webp"
+  },
+  {
+    "id": "Vanilla extract",
+    "name": "Vanilla extract",
+    "description": "Vanilla extract is a concentrated form of vanilla flavoring derived from vanilla beans. It is commonly used in cooking and baking to add a rich and sweet vanilla flavor to dishes.",
+    "alternateNames": "Vanilla essence",
+    "imageUrl": "https://replicate.delivery/yhqm/MGx2dh7e00QSXq1jvG8lotxoqZW1V6MGH8B7frOpeuFYRs4mA/out-0.webp"
+  },
+  {
+    "id": "Velvet bean powder",
+    "name": "Velvet bean powder",
+    "description": "Velvet bean powder is derived from the seeds of the Mucuna pruriens plant, which is native to tropical regions. It has long been used in traditional Ayurvedic medicine for its various health benefits.",
+    "alternateNames": "Mucuna pruriens powder",
+    "imageUrl": "https://replicate.delivery/yhqm/k07ZOz3GBx6hAZQqnzGiXAAfsQ0vaOF53CkinM1s79TaELuJA/out-0.webp"
+  },
+  {
+    "id": "Verbena essential oil",
+    "name": "Verbena essential oil",
+    "description": "Verbena essential oil is extracted from the leaves of the lemon verbena plant through steam distillation. It has a refreshing citrus scent and is often used in aromatherapy and as a natural fragrance.",
+    "alternateNames": "Lemon verbena essential oil",
+    "imageUrl": "https://replicate.delivery/yhqm/7HSlyveKLr0rbaTeAKww98zXn2f4XYJdoE5XDj6sW6LnRs4mA/out-0.webp"
+  },
+  {
+    "id": "Vervain Tea",
+    "name": "Vervain Tea",
+    "description": "Vervain tea is made from the leaves and flowers of the vervain plant, which is known for its medicinal properties. It has been used for centuries in traditional medicine to promote relaxation and overall well-being.",
+    "alternateNames": "Verbena tea",
+    "imageUrl": "https://replicate.delivery/yhqm/1tu43k5tiJJyPh8Y7pBCUsjm2k1YRxj08ebztUzDUgtTELuJA/out-0.webp"
+  },
+  {
+    "id": "Vetiver oil",
+    "name": "Vetiver oil",
+    "description": "Vetiver oil is derived from the roots of the vetiver plant, a grass native to India. It has a deep, earthy aroma and is often used in aromatherapy and as a natural remedy for various health issues.",
+    "alternateNames": "Khus oil",
+    "imageUrl": "https://replicate.delivery/yhqm/KWNARJBKemRVfUUcg7YOQWMuP1GVVr4vKewEZesE2st1iYxNB/out-0.webp"
+  },
+  {
+    "id": "Vinca minor tincture",
+    "name": "Vinca minor tincture",
+    "description": "Vinca minor tincture is a herbal remedy made from the plant Vinca minor, also known as periwinkle. The tincture is typically made by extracting the active compounds from the leaves and flowers of the plant using alcohol.",
+    "alternateNames": "Periwinkle tincture",
+    "imageUrl": "https://replicate.delivery/yhqm/FffdmfkrdlRjRICriptdTD1rMfN5ldiJVIVNFcYGEV5FjYxNB/out-0.webp"
+  },
+  {
+    "id": "Vinegar compress",
+    "name": "Vinegar compress",
+    "description": "A vinegar compress involves soaking a cloth in vinegar and applying it to the affected area. This remedy has been used for centuries to help relieve inflammation, pain, and skin conditions.",
+    "alternateNames": "Vinegar pack",
+    "imageUrl": "https://replicate.delivery/yhqm/5jXAN3pYK57jONPfeAxUsy6CMueYasI4s2npNS0hIU3RRs4mA/out-0.webp"
+  },
+  {
+    "id": "Vitamin C supplements",
+    "name": "Vitamin C supplements",
+    "description": "Vitamin C supplements are a form of vitamins that are taken orally to increase the levels of vitamin C in the body. Vitamin C is an essential nutrient that plays a crucial role in various bodily functions.",
+    "alternateNames": "Ascorbic acid supplements",
+    "imageUrl": "https://replicate.delivery/yhqm/IeC7HZGMJzwkAyH6pwjGXeHhj5eMvzzIwkFkRsKqks9VRs4mA/out-0.webp"
+  },
+  {
+    "id": "Walnuts",
+    "name": "Walnuts",
+    "description": "Walnuts are nuts that grow on trees and are native to the Middle East and Central Asia. They are a rich source of antioxidants, omega-3 fatty acids, and other nutrients.",
+    "alternateNames": "Juglans regia",
+    "imageUrl": "https://replicate.delivery/yhqm/yi4Vpd7h0U5tFV25O4sAd1JtDAR2lMjtU7KYTZtP3fShELuJA/out-0.webp"
+  },
+  {
+    "id": "Warm compress",
+    "name": "Warm compress",
+    "description": "A warm compress therapy involves applying a warm, wet cloth or heating pad to a specific area of the body. The heat helps to increase blood flow, relax muscles, and reduce pain and inflammation.",
+    "alternateNames": "Heat therapy",
+    "imageUrl": "https://replicate.delivery/yhqm/6e7J8NWWK0SVaq1JsNPixX8Qi0Lrmx6NFVLIqtO1UPdfIWcTA/out-0.webp"
+  },
+  {
+    "id": "Water therapy",
+    "name": "Water therapy",
+    "description": "Water therapy involves using water in various forms (such as drinking, soaking, or showering) to promote healing and overall well-being.",
+    "alternateNames": "Hydrotherapy",
+    "imageUrl": "https://replicate.delivery/yhqm/qxBoFEnulK51CROyJ5byKtM3ULNpT5Q2jewMSOLliAccELuJA/out-0.webp"
+  },
+  {
+    "id": "Watermelon Seed Tea",
+    "name": "Watermelon Seed Tea",
+    "description": "Watermelon seed tea is a herbal remedy made from the seeds of the watermelon fruit. These seeds are typically dried, ground, and brewed into a tea.",
+    "alternateNames": "Citrullus lanatus tea",
+    "imageUrl": "https://replicate.delivery/yhqm/dg4r6kT2zR7CMR9dF7K1alqCfz5yuOQVtkeUYCK01KOEJWcTA/out-0.webp"
+  },
+  {
+    "id": "Wheatgrass juice",
+    "name": "Wheatgrass juice",
+    "description": "Wheatgrass juice is made from young grass of the wheat plant, typically grown indoors for around 7-10 days before being juiced. It is a potent source of vitamins, minerals, enzymes, and chlorophyll.",
+    "alternateNames": "Wheatgrass shot, wheatgrass smoothie",
+    "imageUrl": "https://replicate.delivery/yhqm/wxKLdkdz6lo6ElzbijVxyAlJkxVukPBI8cg5Q4DQUtWPiF3E/out-0.webp"
+  },
+  {
+    "id": "White tea",
+    "name": "White tea",
+    "description": "White tea is made from young tea leaves and buds that are harvested before they fully open. The leaves are lightly processed to preserve their natural antioxidants, resulting in a delicate and subtle flavor.",
+    "alternateNames": "Silver needle tea",
+    "imageUrl": "https://replicate.delivery/yhqm/S2eYqxn9KSWVKCcK3uz7HovkX41jqLBsKejS2nh6k0fBSs4mA/out-0.webp"
+  },
+  {
+    "id": "White willow",
+    "name": "White willow",
+    "description": "White willow is a tree native to Europe and Asia that has been used for centuries in traditional medicine for its therapeutic properties. It is commonly used as an herbal remedy for pain relief and inflammation.",
+    "alternateNames": "Salix alba",
+    "imageUrl": "https://replicate.delivery/yhqm/iJP5SVMVwQLlLdKRGSfeWqF7cotGWtnfY39fpLvi2iLVkYxNB/out-0.webp"
+  },
+  {
+    "id": "Wild Yam",
+    "name": "Wild Yam",
+    "description": "Wild yam is a plant native to North America that has been traditionally used for its medicinal properties. The root of the wild yam plant is the part that is typically used for its health benefits.",
+    "alternateNames": "Dioscorea villosa",
+    "imageUrl": "https://replicate.delivery/yhqm/gcfLKKsmkSzdDa9xtzKiBE7nvf4mVe8nA1GaMh8OPa03Rs4mA/out-0.webp"
+  },
+  {
+    "id": "Willow bark",
+    "name": "Willow bark",
+    "description": "Willow bark is the bark of the willow tree and has been used for centuries as a natural remedy for various ailments.",
+    "alternateNames": "Salix alba",
+    "imageUrl": "https://replicate.delivery/yhqm/uHOlhdGt4868I937M99GYJ9yLEY4ULuPHbwBN6WGe2BbELuJA/out-0.webp"
+  },
+  {
+    "id": "Witch hazel",
+    "name": "Witch hazel",
+    "description": "Witch hazel is a plant native to North America that has been used for centuries for its medicinal properties. The leaves, bark, and twigs of the witch hazel plant are commonly used to make a natural astringent and topical remedy.",
+    "alternateNames": "Hamamelis virginiana",
+    "imageUrl": "https://replicate.delivery/yhqm/wTfWVBWKhY2GEq7JqYkkQtFVfU6mpN3XLwbk6heEuq6zRs4mA/out-0.webp"
+  },
+  {
+    "id": "Xanthan gum",
+    "name": "Xanthan gum",
+    "description": "Xanthan gum is a polysaccharide that is commonly used as a food additive and thickening agent. It is produced through the fermentation of sugar by the Xanthomonas campestris bacterium.",
+    "alternateNames": "E415",
+    "imageUrl": "https://replicate.delivery/yhqm/uh4xAde12KQuBKZQ75CfhYdryU5ESn5FmsICHDSkfrDOSs4mA/out-0.webp"
+  },
+  {
+    "id": "Xanthium (Cocklebur)",
+    "name": "Xanthium (Cocklebur)",
+    "description": "Xanthium is a medicinal herb that has been used in Traditional Chinese Medicine for centuries. It is derived from the cocklebur plant, known scientifically as Xanthium strumarium.",
+    "alternateNames": "Cang Er Zi",
+    "imageUrl": "https://replicate.delivery/yhqm/JfbAoS2TdV2xAyMd1YqRDn2HAlpYhzE3KvztqiFV1YklELuJA/out-0.webp"
+  },
+  {
+    "id": "Xanthones (from mangosteen)",
+    "name": "Xanthones (from mangosteen)",
+    "description": "Xanthones are a group of biologically active compounds found in the fruit of the mangosteen tree. They have potent antioxidant and anti-inflammatory properties, making them popular in traditional medicine and natural health remedies.",
+    "alternateNames": "Mangosteen extract",
+    "imageUrl": "https://replicate.delivery/yhqm/heepiPfPgRA5VJ84IPeEd8K0U7yeAeSHCpRjn4kcBMwIWiF3E/out-0.webp"
+  },
+  {
+    "id": "Xanthorrhizol (from turmeric)",
+    "name": "Xanthorrhizol (from turmeric)",
+    "description": "Xanthorrhizol is a compound found in turmeric (Curcuma xanthorrhiza) with potential medicinal properties. It is known for its anti-inflammatory, antioxidant, and antimicrobial properties.",
+    "alternateNames": "None",
+    "imageUrl": "https://replicate.delivery/yhqm/miuDxv4WCh5yApxY5fbePI0Bw6KUIeUGAbAd6PMoC5LhSs4mA/out-0.webp"
+  },
+  {
+    "id": "Xerophyte extracts",
+    "name": "Xerophyte extracts",
+    "description": "Xerophytes are plants that have adapted to survive in arid and dry conditions by storing water in their leaves, stems, or roots. These plants have unique properties that can be extracted and used for various health benefits.",
+    "alternateNames": "Desert plant extracts",
+    "imageUrl": "https://replicate.delivery/yhqm/iRRDkxWeZTVPO6CgZX9c7y0g8i4BekmGqieuVRFjVZbbSs4mA/out-0.webp"
+  },
+  {
+    "id": "Ximenia caffra (sour plum)",
+    "name": "Ximenia caffra (sour plum)",
+    "description": "Ximenia caffra, also known as sour plum, is a tree native to Southern Africa. The fruit of the tree is commonly used for its medicinal properties.",
+    "alternateNames": "Wild plum, monkey plum",
+    "imageUrl": "https://replicate.delivery/yhqm/sjFdXRxWjeRnDCOfCT1HE6fceQAweXLw0Ue1F5UlajDnTiF3E/out-0.webp"
+  },
+  {
+    "id": "Ximenynic acid",
+    "name": "Ximenynic acid",
+    "description": "Ximenynic acid is a rare fatty acid that is found in the seed oils of the Ximenia americana tree. It is known for its anti-inflammatory and antioxidant properties.",
+    "alternateNames": "None",
+    "imageUrl": "https://replicate.delivery/yhqm/Jtnm4epeSPie0J2OTnNW38ELYCjt25mXmUZGHVwKtuEoSs4mA/out-0.webp"
+  },
+  {
+    "id": "Xylitol",
+    "name": "Xylitol",
+    "description": "Xylitol is a natural sugar alcohol derived from plants, often extracted from birch trees. It is commonly used as a sugar substitute in various products.",
+    "alternateNames": "Birch sugar",
+    "imageUrl": "https://replicate.delivery/yhqm/QF5W4D1cJk7vJxvuHi3sbI4rvrv9Uc2SuGschGUPiXWSiF3E/out-0.webp"
+  },
+  {
+    "id": "Xylopia aethiopica (Ethiopian pepper)",
+    "name": "Xylopia aethiopica (Ethiopian pepper)",
+    "description": "Xylopia aethiopica is a plant native to West Africa and is commonly used in traditional African medicine and cooking. The seeds of the plant are dried and ground into a powder for various uses.",
+    "alternateNames": "Grains of Selim, Ethiopian pepper, African pepper, Uda seed",
+    "imageUrl": "https://replicate.delivery/yhqm/0VJi9l5gfQ2LW6u65TheefWqJxU9lORh8EzaJELyeZoXKxibC/out-0.webp"
+  },
+  {
+    "id": "Xylopia frutescens",
+    "name": "Xylopia frutescens",
+    "description": "Xylopia frutescens is a plant native to West Africa that is commonly used in traditional medicine for its various health benefits.",
+    "alternateNames": "African pepper, Uda",
+    "imageUrl": "https://replicate.delivery/yhqm/PaKThycMEHJYBhGVuIWAfizeE1idITgAd2Va2kL1Vf1qSs4mA/out-0.webp"
+  },
+  {
+    "id": "Yarrow",
+    "name": "Yarrow",
+    "description": "Yarrow is a flowering plant that has been used for medicinal purposes for centuries. It is native to Europe and Asia but can now be found growing in many regions around the world.",
+    "alternateNames": "Achillea millefolium",
+    "imageUrl": "https://replicate.delivery/yhqm/P6dPgAjCqS5kEV3WIFsNjzy6m8oj8ifYwref4afzzkNnlYxNB/out-0.webp"
+  },
+  {
+    "id": "Yellow Corn Silk",
+    "name": "Yellow Corn Silk",
+    "description": "Yellow Corn Silk is the fine, thread-like strands found on ears of corn that are often discarded before cooking. However, these silk strands are actually a valuable herbal remedy with numerous health benefits.",
+    "alternateNames": "Stigmata Maydis",
+    "imageUrl": "https://replicate.delivery/yhqm/0yNsSVAVibbfKa8i1r3Zeho4DiFhMoBrCq3JzCMKSesTTs4mA/out-0.webp"
+  },
+  {
+    "id": "Yellow Dock",
+    "name": "Yellow Dock",
+    "description": "Yellow Dock is a perennial herb that is native to Europe and western Asia. It has long, slender leaves and small yellow flowers.",
+    "alternateNames": "Rumex crispus",
+    "imageUrl": "https://replicate.delivery/yhqm/fLfc5NameeF62RN37ZsyfCnrOEY87eTQ1hn03L03fDyhtELuJA/out-0.webp"
+  },
+  {
+    "id": "Yellow Mustard",
+    "name": "Yellow Mustard",
+    "description": "Yellow mustard is made from the seeds of the mustard plant that is commonly used as a condiment. The seeds are ground into a paste and can be used for various medicinal purposes.",
+    "alternateNames": "Mustard Seed Paste",
+    "imageUrl": "https://replicate.delivery/yhqm/K2y6jv3j4D4LGNfmgyNNIxOHOo5ZoI9IFAwOcHDbyMWyELuJA/out-0.webp"
+  },
+  {
+    "id": "Yerba Mate",
+    "name": "Yerba Mate",
+    "description": "Yerba mate is a traditional South American drink made by steeping the leaves of the yerba mate plant in hot water. It is known for its stimulating effects due to the presence of caffeine, theobromine, and theophylline.",
+    "alternateNames": "Ilex paraguariensis",
+    "imageUrl": "https://replicate.delivery/yhqm/LIwsWTdhGf3NMaCjNO7ffhGtAxKksdweFPgjbAn25pE1lYxNB/out-0.webp"
+  },
+  {
+    "id": "Yerba Santa",
+    "name": "Yerba Santa",
+    "description": "Yerba Santa is a plant native to North America, specifically in the southwestern United States and Mexico. It is known for its aromatic leaves and small white flowers.",
+    "alternateNames": "Eriodictyon californicum, Mountain Balm",
+    "imageUrl": "https://replicate.delivery/yhqm/JySnPDOUpAZ2FhTPl8fnZ0Zlsryg3xOIZop49zfEbQOlJWcTA/out-0.webp"
+  },
+  {
+    "id": "Ylang-Ylang",
+    "name": "Ylang-Ylang",
+    "description": "Ylang-Ylang is a tropical tree native to Indonesia, Malaysia, and the Philippines. It is known for its distinct floral scent and is often used in aromatherapy and skincare products.",
+    "alternateNames": "Cananga odorata",
+    "imageUrl": "https://replicate.delivery/yhqm/6xbuL9sHyVIRHN2Ggqia7OAyA4AAsExCcinc9JS7qeeeSs4mA/out-0.webp"
+  },
+  {
+    "id": "Yohimbe",
+    "name": "Yohimbe",
+    "description": "Yohimbe is an herbal supplement derived from the bark of a tree native to Africa. It has been used for centuries in traditional medicine for its potential aphrodisiac properties.",
+    "alternateNames": "Pausinystalia johimbe",
+    "imageUrl": "https://replicate.delivery/yhqm/sMVDiwyRHgI2NFk8RxFMyb1ktDIqSVUQZPNent0zeQGgJWcTA/out-0.webp"
+  },
+  {
+    "id": "Yohimbine",
+    "name": "Yohimbine",
+    "description": "Yohimbine is a chemical compound extracted from the bark of the yohimbe tree native to Africa. It is commonly used as a dietary supplement and has been studied for its potential effects on sexual health and weight loss.",
+    "alternateNames": "Corynanthe yohimbe",
+    "imageUrl": "https://replicate.delivery/yhqm/E8PvqDvfa00ONqODipsbLK7cp02dTkRUGhXe7eQfH2UfMxibC/out-0.webp"
+  },
+  {
+    "id": "Yucca",
+    "name": "Yucca",
+    "description": "Yucca is a plant native to the deserts of the Americas, known for its medicinal properties.",
+    "alternateNames": "Yucca schidigera",
+    "imageUrl": "https://replicate.delivery/yhqm/sQtpkrIcmwriPl8H87ZylAFJMCX4tc2chy1rsk6f7vRxELuJA/out-0.webp"
+  },
+  {
+    "id": "Zaffer (Saffron)",
+    "name": "Zaffer (Saffron)",
+    "description": "Zaffer, also known as saffron, is a spice derived from the flower of Crocus sativus. It is used in cooking, baking, and traditional medicine.",
+    "alternateNames": "Crocus sativus",
+    "imageUrl": "https://replicate.delivery/yhqm/DY6wP59lK5LQFxLGf2MErphgGuXcXt2PDwhr6m5CDoJ9ELuJA/out-0.webp"
+  },
+  {
+    "id": "Zedoary root",
+    "name": "Zedoary root",
+    "description": "Zedoary root is a type of root that belongs to the ginger family. It is commonly used in traditional Asian medicine for its medicinal properties.",
+    "alternateNames": "White turmeric",
+    "imageUrl": "https://replicate.delivery/yhqm/vZU6WRnyeZT6UCFNAtZ4uoGitq3Wiue7nrjZp4h8ezEhTs4mA/out-0.webp"
+  },
+  {
+    "id": "Zeolite",
+    "name": "Zeolite",
+    "description": "Zeolite is a naturally occurring mineral compound that is known for its ability to trap toxins and heavy metals in the body and safely eliminate them through urine and feces.",
+    "alternateNames": "Clinoptilolite Zeolite",
+    "imageUrl": "https://replicate.delivery/yhqm/TRwaulfI0foHBEIcnhtTDya4H4mK0ElPfaLAuemJeQO0NxibC/out-0.webp"
+  },
+  {
+    "id": "Zinc ointment",
+    "name": "Zinc ointment",
+    "description": "Zinc ointment is a topical medication that contains zinc oxide as its active ingredient. It is commonly used to treat a variety of skin conditions due to its soothing and protective properties.",
+    "alternateNames": "Zinc oxide ointment",
+    "imageUrl": "https://replicate.delivery/yhqm/pXXVjER9moZMPVtgkRmSLVi9PODHAwTPIPyPR4HX7H2ciF3E/out-0.webp"
+  },
+  {
+    "id": "Zinc supplements",
+    "name": "Zinc supplements",
+    "description": "Zinc supplements are dietary supplements that are taken to increase zinc levels in the body. Zinc is an essential mineral that plays a crucial role in various bodily functions.",
+    "alternateNames": "Zinc pills",
+    "imageUrl": "https://replicate.delivery/yhqm/ZmiNnswRk2YwF5o9nIfs57Otb3gT0MEMsZtbOBYwJZfqJWcTA/out-0.webp"
+  },
+  {
+    "id": "Zingiber essential oil",
+    "name": "Zingiber essential oil",
+    "description": "Zingiber essential oil is derived from the root of the zingiber plant and is widely used for its medicinal properties and spicy aroma.",
+    "alternateNames": "Ginger essential oil",
+    "imageUrl": "https://replicate.delivery/yhqm/Jqg3uscHr1p2D1YkIy5f6Z6zjlCwOfdHOYNriHfXiyxtTs4mA/out-0.webp"
+  },
+  {
+    "id": "Zingiber officinale (ginger)",
+    "name": "Zingiber officinale (ginger)",
+    "description": "Zingiber officinale, or ginger, is a flowering plant that is widely used as a spice in cooking and as a natural remedy for various ailments. It has a pungent taste and aroma due to its bioactive compound, gingerol.",
+    "alternateNames": "Ginger",
+    "imageUrl": "https://replicate.delivery/yhqm/BfvqTrXyyVR6dKtPfqb7jZvUeeyw7mJTeQtgEOUlfQmPbiF3E/out-0.webp"
+  },
+  {
+    "id": "Zizyphus (Jujube)",
+    "name": "Zizyphus (Jujube)",
+    "description": "Zizyphus is a fruit-bearing plant native to China that has been used in traditional Chinese medicine for centuries. The fruit is sweet and tangy and can be eaten fresh or dried.",
+    "alternateNames": "Red date, Chinese date",
+    "imageUrl": "https://replicate.delivery/yhqm/n6VgeWPXxBReXUeVJTQXTg7jjgFa1GIrgDVRAzZSbmYiTs4mA/out-0.webp"
+  },
+  {
+    "id": "Zone Therapy",
+    "name": "Zone Therapy",
+    "description": "Zone therapy, also known as reflexology, is a form of alternative medicine that involves applying pressure to specific points on the feet, hands, or ears to promote healing in corresponding areas of the body.",
+    "alternateNames": "Reflexology",
+    "imageUrl": "https://replicate.delivery/yhqm/zMyMvIzwGGLfTKIiKIcTYE6kJkL33JQvkISlAxJGLCT8ELuJA/out-0.webp"
+  },
+  {
+    "id": "Zostrix (capsaicin cream)",
+    "name": "Zostrix (capsaicin cream)",
+    "description": "Zostrix is a topical cream that contains capsaicin, the active component found in chili peppers. It works by blocking the transmission of pain signals from the skin to the brain.",
+    "alternateNames": "Capsaicin cream",
+    "imageUrl": "https://replicate.delivery/yhqm/v8KqBXxIJCqEBxGVF5FMelfLoR7Deyex6huf8ygwQxNtOxibC/out-0.webp"
+  }
+]

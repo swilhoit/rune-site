@@ -1,39 +1,14 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Symptom } from '@/lib/bigquery';
+import { useStaticSymptom } from '@/hooks/useStaticData';
 
 export default function SymptomPage() {
   const params = useParams();
   const router = useRouter();
-  const [symptom, setSymptom] = useState<Symptom | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    fetchSymptom();
-  }, [params.id]);
-
-  const fetchSymptom = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch(`/api/health/symptoms/${encodeURIComponent(params.id as string)}`);
-      
-      if (!response.ok) {
-        throw new Error('Symptom not found');
-      }
-
-      const data = await response.json();
-      setSymptom(data.symptom);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred');
-    } finally {
-      setLoading(false);
-    }
-  };
+  const { symptom, loading, error } = useStaticSymptom(params.id as string);
 
   // Function to format the remedies text into a more readable format
   const formatRemedies = (remediesText: string | undefined) => {

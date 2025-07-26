@@ -1,39 +1,14 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Remedy } from '@/lib/bigquery';
+import { useStaticRemedy } from '@/hooks/useStaticData';
 
 export default function RemedyPage() {
   const params = useParams();
   const router = useRouter();
-  const [remedy, setRemedy] = useState<Remedy | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    fetchRemedy();
-  }, [params.id]);
-
-  const fetchRemedy = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch(`/api/health/remedies/${encodeURIComponent(params.id as string)}`);
-      
-      if (!response.ok) {
-        throw new Error('Remedy not found');
-      }
-
-      const data = await response.json();
-      setRemedy(data.remedy);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred');
-    } finally {
-      setLoading(false);
-    }
-  };
+  const { remedy, loading, error } = useStaticRemedy(params.id as string);
 
   return (
     <>

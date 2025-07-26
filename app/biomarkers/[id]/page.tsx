@@ -1,39 +1,14 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-import { Biomarker } from '@/lib/bigquery';
+import { useStaticBiomarker } from '@/hooks/useStaticData';
 
 export default function BiomarkerPage() {
   const params = useParams();
   const router = useRouter();
-  const [biomarker, setBiomarker] = useState<Biomarker | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    fetchBiomarker();
-  }, [params.id]);
-
-  const fetchBiomarker = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch(`/api/biomarkers/${encodeURIComponent(params.id as string)}`);
-      
-      if (!response.ok) {
-        throw new Error('Biomarker not found');
-      }
-
-      const data = await response.json();
-      setBiomarker(data.biomarker);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred');
-    } finally {
-      setLoading(false);
-    }
-  };
+  const { biomarker, loading, error } = useStaticBiomarker(params.id as string);
 
   // Function to provide additional context based on category
   const getCategoryInfo = (category: string | undefined) => {

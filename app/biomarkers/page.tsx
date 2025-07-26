@@ -4,41 +4,20 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Biomarker } from '@/lib/bigquery';
+import { useStaticBiomarkers } from '@/hooks/useStaticData';
 
 export default function BiomarkersDatabase() {
-  const [biomarkers, setBiomarkers] = useState<Biomarker[]>([]);
+  const { biomarkers, loading, error } = useStaticBiomarkers();
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [categories, setCategories] = useState<string[]>([]);
   const [viewMode, setViewMode] = useState<'card' | 'table'>('card');
   const [searchTerm, setSearchTerm] = useState('');
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetchBiomarkers();
-  }, []);
-
-  const fetchBiomarkers = async () => {
-    try {
-      setLoading(true);
-      const response = await fetch('/api/biomarkers');
-      
-      if (!response.ok) {
-        throw new Error('Failed to fetch data');
-      }
-
-      const data = await response.json();
-      setBiomarkers(data.biomarkers || []);
-      
-      // Extract unique categories
-      const uniqueCategories = [...new Set(data.biomarkers.map((b: Biomarker) => b.category).filter(Boolean))];
-      setCategories(uniqueCategories.sort());
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred');
-    } finally {
-      setLoading(false);
-    }
-  };
+    // Extract unique categories when biomarkers load
+    const uniqueCategories = [...new Set(biomarkers.map((b: Biomarker) => b.category).filter(Boolean))];
+    setCategories(uniqueCategories.sort());
+  }, [biomarkers]);
 
   const filteredBiomarkers = biomarkers.filter(biomarker => {
     const matchesSearch = biomarker.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -197,7 +176,7 @@ export default function BiomarkersDatabase() {
           <div className="bg-red-50 border border-red-200 rounded-xl p-6 text-center">
             <p className="text-red-600 font-mono">{error}</p>
             <button
-              onClick={fetchBiomarkers}
+              onClick={() => window.location.reload()}
               className="mt-4 px-6 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 transition-all font-mono text-sm"
             >
               Try Again

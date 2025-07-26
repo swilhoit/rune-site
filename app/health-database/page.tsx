@@ -5,16 +5,18 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { Symptom, Remedy } from '@/lib/bigquery';
+import { useStaticSymptoms, useStaticRemedies } from '@/hooks/useStaticData';
 
 export default function HealthDatabase() {
   const searchParams = useSearchParams();
-  const [symptoms, setSymptoms] = useState<Symptom[]>([]);
-  const [remedies, setRemedies] = useState<Remedy[]>([]);
+  const { symptoms, loading: symptomsLoading, error: symptomsError } = useStaticSymptoms();
+  const { remedies, loading: remediesLoading, error: remediesError } = useStaticRemedies();
   const [selectedTab, setSelectedTab] = useState<'symptoms' | 'remedies'>('symptoms');
   const [viewMode, setViewMode] = useState<'card' | 'table'>('card');
   const [searchTerm, setSearchTerm] = useState('');
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  
+  const loading = symptomsLoading || remediesLoading;
+  const error = symptomsError || remediesError;
 
   useEffect(() => {
     // Check URL params for tab selection
@@ -22,32 +24,7 @@ export default function HealthDatabase() {
     if (tabParam === 'remedies') {
       setSelectedTab('remedies');
     }
-    fetchData();
   }, [searchParams]);
-
-  const fetchData = async () => {
-    try {
-      setLoading(true);
-      const [symptomsRes, remediesRes] = await Promise.all([
-        fetch('/api/health/symptoms'),
-        fetch('/api/health/remedies')
-      ]);
-
-      if (!symptomsRes.ok || !remediesRes.ok) {
-        throw new Error('Failed to fetch data');
-      }
-
-      const symptomsData = await symptomsRes.json();
-      const remediesData = await remediesRes.json();
-
-      setSymptoms(symptomsData.symptoms || []);
-      setRemedies(remediesData.remedies || []);
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'An error occurred');
-    } finally {
-      setLoading(false);
-    }
-  };
 
   const filteredSymptoms = symptoms.filter(symptom =>
     symptom.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -220,7 +197,7 @@ export default function HealthDatabase() {
           <div className="bg-red-50 border border-red-200 rounded-xl p-6 text-center">
             <p className="text-red-600 font-mono">{error}</p>
             <button
-              onClick={fetchData}
+              onClick={() => window.location.reload()}
               className="mt-4 px-6 py-2 bg-red-600 text-white rounded-md hover:bg-red-700 transition-all font-mono text-sm"
             >
               Try Again

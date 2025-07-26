@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "1-1-5-anhydroglucitol--1-5-ag-",
+    "name": "1,5-Anhydroglucitol (1,5-AG)",
+    "category": "Diabetes / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "2-acth",
+    "name": "ACTH",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "3-afp",
+    "name": "AFP",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "4-alt",
+    "name": "ALT",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "5-alt-variant-124",
+    "name": "ALT Variant 124",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "6-alt-variant-138",
+    "name": "ALT Variant 138",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "7-alt-variant-152",
+    "name": "ALT Variant 152",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "8-alt-variant-166",
+    "name": "ALT Variant 166",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "9-alt-variant-180",
+    "name": "ALT Variant 180",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "10-alt-variant-194",
+    "name": "ALT Variant 194",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "11-alt-variant-208",
+    "name": "ALT Variant 208",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "12-alt-variant-222",
+    "name": "ALT Variant 222",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "13-alt-variant-236",
+    "name": "ALT Variant 236",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "14-alt-variant-250",
+    "name": "ALT Variant 250",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "15-alt-variant-264",
+    "name": "ALT Variant 264",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "16-alt-variant-278",
+    "name": "ALT Variant 278",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "17-alt-variant-292",
+    "name": "ALT Variant 292",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "18-ast",
+    "name": "AST",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "19-ast-variant-137",
+    "name": "AST Variant 137",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "20-ast-variant-151",
+    "name": "AST Variant 151",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "21-ast-variant-165",
+    "name": "AST Variant 165",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "22-ast-variant-179",
+    "name": "AST Variant 179",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "23-ast-variant-193",
+    "name": "AST Variant 193",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "24-ast-variant-207",
+    "name": "AST Variant 207",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "25-ast-variant-221",
+    "name": "AST Variant 221",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "26-ast-variant-235",
+    "name": "AST Variant 235",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "27-ast-variant-249",
+    "name": "AST Variant 249",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "28-ast-variant-263",
+    "name": "AST Variant 263",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "29-ast-variant-277",
+    "name": "AST Variant 277",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "30-ast-variant-291",
+    "name": "AST Variant 291",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "31-adiponectin",
+    "name": "Adiponectin",
+    "category": "Diabetes / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "32-albumin",
+    "name": "Albumin",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "33-albumin-variant-134",
+    "name": "Albumin Variant 134",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "34-albumin-variant-148",
+    "name": "Albumin Variant 148",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "35-albumin-variant-162",
+    "name": "Albumin Variant 162",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "36-albumin-variant-176",
+    "name": "Albumin Variant 176",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "37-albumin-variant-190",
+    "name": "Albumin Variant 190",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "38-albumin-variant-204",
+    "name": "Albumin Variant 204",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "39-albumin-variant-218",
+    "name": "Albumin Variant 218",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "40-albumin-variant-232",
+    "name": "Albumin Variant 232",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "41-albumin-variant-246",
+    "name": "Albumin Variant 246",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "42-albumin-variant-260",
+    "name": "Albumin Variant 260",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "43-albumin-variant-274",
+    "name": "Albumin Variant 274",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "44-albumin-variant-288",
+    "name": "Albumin Variant 288",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "45-alkaline-phosphatase--alp-",
+    "name": "Alkaline Phosphatase (ALP)",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "46-alkaline-phosphatase--alp--variant-136",
+    "name": "Alkaline Phosphatase (ALP) Variant 136",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "47-alkaline-phosphatase--alp--variant-150",
+    "name": "Alkaline Phosphatase (ALP) Variant 150",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "48-alkaline-phosphatase--alp--variant-164",
+    "name": "Alkaline Phosphatase (ALP) Variant 164",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "49-alkaline-phosphatase--alp--variant-178",
+    "name": "Alkaline Phosphatase (ALP) Variant 178",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "50-alkaline-phosphatase--alp--variant-192",
+    "name": "Alkaline Phosphatase (ALP) Variant 192",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "51-alkaline-phosphatase--alp--variant-206",
+    "name": "Alkaline Phosphatase (ALP) Variant 206",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "52-alkaline-phosphatase--alp--variant-220",
+    "name": "Alkaline Phosphatase (ALP) Variant 220",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "53-alkaline-phosphatase--alp--variant-234",
+    "name": "Alkaline Phosphatase (ALP) Variant 234",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "54-alkaline-phosphatase--alp--variant-248",
+    "name": "Alkaline Phosphatase (ALP) Variant 248",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "55-alkaline-phosphatase--alp--variant-262",
+    "name": "Alkaline Phosphatase (ALP) Variant 262",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "56-alkaline-phosphatase--alp--variant-276",
+    "name": "Alkaline Phosphatase (ALP) Variant 276",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "57-alkaline-phosphatase--alp--variant-290",
+    "name": "Alkaline Phosphatase (ALP) Variant 290",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "58-alpha-1-antitrypsin",
+    "name": "Alpha-1 Antitrypsin",
+    "category": "Liver Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "59-ammonia",
+    "name": "Ammonia",
+    "category": "Liver Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "60-anti-ccp",
+    "name": "Anti-CCP",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "61-anti-dsdna",
+    "name": "Anti-dsDNA",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "62-antinuclear-antibody--ana-",
+    "name": "Antinuclear Antibody (ANA)",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "63-antithrombin-iii",
+    "name": "Antithrombin III",
+    "category": "Coagulation / Hemostasis",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "64-apolipoprotein-a1",
+    "name": "Apolipoprotein A1",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "65-apolipoprotein-b",
+    "name": "Apolipoprotein B",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "66-bnp",
+    "name": "BNP",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "67-braf",
+    "name": "BRAF",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "68-brca1",
+    "name": "BRCA1",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "69-brca2",
+    "name": "BRCA2",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "70-basophils",
+    "name": "Basophils",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "71-beta-2-microglobulin",
+    "name": "Beta-2 Microglobulin",
+    "category": "Kidney Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "72-blood-urea-nitrogen--bun-",
+    "name": "Blood Urea Nitrogen (BUN)",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "73-blood-urea-nitrogen--bun--variant-130",
+    "name": "Blood Urea Nitrogen (BUN) Variant 130",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "74-blood-urea-nitrogen--bun--variant-144",
+    "name": "Blood Urea Nitrogen (BUN) Variant 144",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "75-blood-urea-nitrogen--bun--variant-158",
+    "name": "Blood Urea Nitrogen (BUN) Variant 158",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "76-blood-urea-nitrogen--bun--variant-172",
+    "name": "Blood Urea Nitrogen (BUN) Variant 172",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "77-blood-urea-nitrogen--bun--variant-186",
+    "name": "Blood Urea Nitrogen (BUN) Variant 186",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "78-blood-urea-nitrogen--bun--variant-200",
+    "name": "Blood Urea Nitrogen (BUN) Variant 200",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "79-blood-urea-nitrogen--bun--variant-214",
+    "name": "Blood Urea Nitrogen (BUN) Variant 214",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "80-blood-urea-nitrogen--bun--variant-228",
+    "name": "Blood Urea Nitrogen (BUN) Variant 228",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "81-blood-urea-nitrogen--bun--variant-242",
+    "name": "Blood Urea Nitrogen (BUN) Variant 242",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "82-blood-urea-nitrogen--bun--variant-256",
+    "name": "Blood Urea Nitrogen (BUN) Variant 256",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "83-blood-urea-nitrogen--bun--variant-270",
+    "name": "Blood Urea Nitrogen (BUN) Variant 270",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "84-blood-urea-nitrogen--bun--variant-284",
+    "name": "Blood Urea Nitrogen (BUN) Variant 284",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "85-blood-urea-nitrogen--bun--variant-298",
+    "name": "Blood Urea Nitrogen (BUN) Variant 298",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "86-c-peptide",
+    "name": "C-Peptide",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "87-c-reactive-protein--crp-",
+    "name": "C-Reactive Protein (CRP)",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "88-ca-15-3",
+    "name": "CA 15-3",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "89-ca-19-9",
+    "name": "CA 19-9",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "90-ca-27-29",
+    "name": "CA 27-29",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "91-ca-125",
+    "name": "CA-125",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "92-cea",
+    "name": "CEA",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "93-ck-mb",
+    "name": "CK-MB",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "94-cyp2c19",
+    "name": "CYP2C19",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "95-cyp2d6",
+    "name": "CYP2D6",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "96-calcium",
+    "name": "Calcium",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "97-calcium--ionized-",
+    "name": "Calcium (Ionized)",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "98-calcium-variant-132",
+    "name": "Calcium Variant 132",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "99-calcium-variant-146",
+    "name": "Calcium Variant 146",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "100-calcium-variant-160",
+    "name": "Calcium Variant 160",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "101-calcium-variant-174",
+    "name": "Calcium Variant 174",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "102-calcium-variant-188",
+    "name": "Calcium Variant 188",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "103-calcium-variant-202",
+    "name": "Calcium Variant 202",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "104-calcium-variant-216",
+    "name": "Calcium Variant 216",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "105-calcium-variant-230",
+    "name": "Calcium Variant 230",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "106-calcium-variant-244",
+    "name": "Calcium Variant 244",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "107-calcium-variant-258",
+    "name": "Calcium Variant 258",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "108-calcium-variant-272",
+    "name": "Calcium Variant 272",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "109-calcium-variant-286",
+    "name": "Calcium Variant 286",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "110-carbon-dioxide--co2-",
+    "name": "Carbon Dioxide (CO2)",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "111-carbon-dioxide--co2--variant-129",
+    "name": "Carbon Dioxide (CO2) Variant 129",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "112-carbon-dioxide--co2--variant-143",
+    "name": "Carbon Dioxide (CO2) Variant 143",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "113-carbon-dioxide--co2--variant-157",
+    "name": "Carbon Dioxide (CO2) Variant 157",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "114-carbon-dioxide--co2--variant-171",
+    "name": "Carbon Dioxide (CO2) Variant 171",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "115-carbon-dioxide--co2--variant-185",
+    "name": "Carbon Dioxide (CO2) Variant 185",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "116-carbon-dioxide--co2--variant-199",
+    "name": "Carbon Dioxide (CO2) Variant 199",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "117-carbon-dioxide--co2--variant-213",
+    "name": "Carbon Dioxide (CO2) Variant 213",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "118-carbon-dioxide--co2--variant-227",
+    "name": "Carbon Dioxide (CO2) Variant 227",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "119-carbon-dioxide--co2--variant-241",
+    "name": "Carbon Dioxide (CO2) Variant 241",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "120-carbon-dioxide--co2--variant-255",
+    "name": "Carbon Dioxide (CO2) Variant 255",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "121-carbon-dioxide--co2--variant-269",
+    "name": "Carbon Dioxide (CO2) Variant 269",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "122-carbon-dioxide--co2--variant-283",
+    "name": "Carbon Dioxide (CO2) Variant 283",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "123-carbon-dioxide--co2--variant-297",
+    "name": "Carbon Dioxide (CO2) Variant 297",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "124-chloride--cl-",
+    "name": "Chloride (Cl)",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "125-chloride--cl--variant-128",
+    "name": "Chloride (Cl) Variant 128",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "126-chloride--cl--variant-142",
+    "name": "Chloride (Cl) Variant 142",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "127-chloride--cl--variant-156",
+    "name": "Chloride (Cl) Variant 156",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "128-chloride--cl--variant-170",
+    "name": "Chloride (Cl) Variant 170",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "129-chloride--cl--variant-184",
+    "name": "Chloride (Cl) Variant 184",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "130-chloride--cl--variant-198",
+    "name": "Chloride (Cl) Variant 198",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "131-chloride--cl--variant-212",
+    "name": "Chloride (Cl) Variant 212",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "132-chloride--cl--variant-226",
+    "name": "Chloride (Cl) Variant 226",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "133-chloride--cl--variant-240",
+    "name": "Chloride (Cl) Variant 240",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "134-chloride--cl--variant-254",
+    "name": "Chloride (Cl) Variant 254",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "135-chloride--cl--variant-268",
+    "name": "Chloride (Cl) Variant 268",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "136-chloride--cl--variant-282",
+    "name": "Chloride (Cl) Variant 282",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "137-chloride--cl--variant-296",
+    "name": "Chloride (Cl) Variant 296",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "138-chromogranin-a",
+    "name": "Chromogranin A",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "139-complement-c3",
+    "name": "Complement C3",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "140-complement-c4",
+    "name": "Complement C4",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "141-copper",
+    "name": "Copper",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "142-cortisol",
+    "name": "Cortisol",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "143-creatinine",
+    "name": "Creatinine",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "144-creatinine-variant-131",
+    "name": "Creatinine Variant 131",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "145-creatinine-variant-145",
+    "name": "Creatinine Variant 145",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "146-creatinine-variant-159",
+    "name": "Creatinine Variant 159",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "147-creatinine-variant-173",
+    "name": "Creatinine Variant 173",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "148-creatinine-variant-187",
+    "name": "Creatinine Variant 187",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "149-creatinine-variant-201",
+    "name": "Creatinine Variant 201",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "150-creatinine-variant-215",
+    "name": "Creatinine Variant 215",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "151-creatinine-variant-229",
+    "name": "Creatinine Variant 229",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "152-creatinine-variant-243",
+    "name": "Creatinine Variant 243",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "153-creatinine-variant-257",
+    "name": "Creatinine Variant 257",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "154-creatinine-variant-271",
+    "name": "Creatinine Variant 271",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "155-creatinine-variant-285",
+    "name": "Creatinine Variant 285",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "156-creatinine-variant-299",
+    "name": "Creatinine Variant 299",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "157-cystatin-c",
+    "name": "Cystatin C",
+    "category": "Kidney Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "158-d-dimer",
+    "name": "D-dimer",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "159-dhea-s",
+    "name": "DHEA-S",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "160-egfr",
+    "name": "EGFR",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "161-esr",
+    "name": "ESR",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "162-eosinophils",
+    "name": "Eosinophils",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "163-estradiol",
+    "name": "Estradiol",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "164-ferritin",
+    "name": "Ferritin",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "165-fibrinogen",
+    "name": "Fibrinogen",
+    "category": "Coagulation / Hemostasis",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "166-fibrinogen",
+    "name": "Fibrinogen",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "167-folate",
+    "name": "Folate",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "168-free-t3",
+    "name": "Free T3",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "169-free-t4",
+    "name": "Free T4",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "170-fructosamine",
+    "name": "Fructosamine",
+    "category": "Diabetes / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "171-gfap",
+    "name": "GFAP",
+    "category": "Neurological / Neurodegenerative",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "172-gamma-glutamyl-transferase--ggt-",
+    "name": "Gamma-Glutamyl Transferase (GGT)",
+    "category": "Liver Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "173-glucose",
+    "name": "Glucose",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "174-glucose-variant-133",
+    "name": "Glucose Variant 133",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "175-glucose-variant-147",
+    "name": "Glucose Variant 147",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "176-glucose-variant-161",
+    "name": "Glucose Variant 161",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "177-glucose-variant-175",
+    "name": "Glucose Variant 175",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "178-glucose-variant-189",
+    "name": "Glucose Variant 189",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "179-glucose-variant-203",
+    "name": "Glucose Variant 203",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "180-glucose-variant-217",
+    "name": "Glucose Variant 217",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "181-glucose-variant-231",
+    "name": "Glucose Variant 231",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "182-glucose-variant-245",
+    "name": "Glucose Variant 245",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "183-glucose-variant-259",
+    "name": "Glucose Variant 259",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "184-glucose-variant-273",
+    "name": "Glucose Variant 273",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "185-glucose-variant-287",
+    "name": "Glucose Variant 287",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "186-her2",
+    "name": "HER2",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "187-hla-b-57-01",
+    "name": "HLA-B*57:01",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "188-haptoglobin",
+    "name": "Haptoglobin",
+    "category": "Liver Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "189-heart-type-fatty-acid-binding-protein--h-fabp-",
+    "name": "Heart-type Fatty Acid Binding Protein (H-FABP)",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "190-hematocrit--hct-",
+    "name": "Hematocrit (Hct)",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "191-hemoglobin--hgb-",
+    "name": "Hemoglobin (Hgb)",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "192-hemoglobin-a1c--hba1c-",
+    "name": "Hemoglobin A1c (HbA1c)",
+    "category": "Diabetes / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "193-high-density-lipoprotein--hdl-c-",
+    "name": "High-Density Lipoprotein (HDL-C)",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "194-high-sensitivity-crp--hs-crp-",
+    "name": "High-Sensitivity CRP (hs‑CRP)",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "195-il-6",
+    "name": "IL-6",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "196-inr",
+    "name": "INR",
+    "category": "Coagulation / Hemostasis",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "197-inr",
+    "name": "INR",
+    "category": "Liver Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "198-iga",
+    "name": "IgA",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "199-ige",
+    "name": "IgE",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "200-igg",
+    "name": "IgG",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "201-igm",
+    "name": "IgM",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "202-insulin",
+    "name": "Insulin",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "203-iron",
+    "name": "Iron",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "204-kras",
+    "name": "KRAS",
+    "category": "Genetic / Pharmacogenomic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "205-leptin",
+    "name": "Leptin",
+    "category": "Diabetes / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "206-lipoprotein-a-",
+    "name": "Lipoprotein(a)",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "207-low-density-lipoprotein--ldl-c-",
+    "name": "Low-Density Lipoprotein (LDL-C)",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "208-lymphocytes",
+    "name": "Lymphocytes",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "209-magnesium",
+    "name": "Magnesium",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "210-mean-corpuscular-volume--mcv-",
+    "name": "Mean Corpuscular Volume (MCV)",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "211-monocytes",
+    "name": "Monocytes",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "212-myoglobin",
+    "name": "Myoglobin",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "213-ngal",
+    "name": "NGAL",
+    "category": "Kidney Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "214-nse",
+    "name": "NSE",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "215-nt-probnp",
+    "name": "NT-proBNP",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "216-neurofilament-light-chain--nfl-",
+    "name": "Neurofilament Light Chain (NfL)",
+    "category": "Neurological / Neurodegenerative",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "217-neutrophils",
+    "name": "Neutrophils",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "218-psa",
+    "name": "PSA",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "219-platelet-count",
+    "name": "Platelet Count",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "220-potassium--k-",
+    "name": "Potassium (K)",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "221-potassium--k--variant-127",
+    "name": "Potassium (K) Variant 127",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "222-potassium--k--variant-141",
+    "name": "Potassium (K) Variant 141",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "223-potassium--k--variant-155",
+    "name": "Potassium (K) Variant 155",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "224-potassium--k--variant-169",
+    "name": "Potassium (K) Variant 169",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "225-potassium--k--variant-183",
+    "name": "Potassium (K) Variant 183",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "226-potassium--k--variant-197",
+    "name": "Potassium (K) Variant 197",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "227-potassium--k--variant-211",
+    "name": "Potassium (K) Variant 211",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "228-potassium--k--variant-225",
+    "name": "Potassium (K) Variant 225",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "229-potassium--k--variant-239",
+    "name": "Potassium (K) Variant 239",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "230-potassium--k--variant-253",
+    "name": "Potassium (K) Variant 253",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "231-potassium--k--variant-267",
+    "name": "Potassium (K) Variant 267",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "232-potassium--k--variant-281",
+    "name": "Potassium (K) Variant 281",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "233-potassium--k--variant-295",
+    "name": "Potassium (K) Variant 295",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "234-procalcitonin--pct-",
+    "name": "Procalcitonin (PCT)",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "235-progesterone",
+    "name": "Progesterone",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "236-prothrombin-time--pt-",
+    "name": "Prothrombin Time (PT)",
+    "category": "Coagulation / Hemostasis",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "237-prothrombin-time--pt-",
+    "name": "Prothrombin Time (PT)",
+    "category": "Liver Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "238-red-blood-cell-count--rbc-",
+    "name": "Red Blood Cell Count (RBC)",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "239-rheumatoid-factor--rf-",
+    "name": "Rheumatoid Factor (RF)",
+    "category": "Immune / Autoimmune",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "240-serum-amyloid-a",
+    "name": "Serum Amyloid A",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "241-sodium--na-",
+    "name": "Sodium (Na)",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "242-sodium--na--variant-126",
+    "name": "Sodium (Na) Variant 126",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "243-sodium--na--variant-140",
+    "name": "Sodium (Na) Variant 140",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "244-sodium--na--variant-154",
+    "name": "Sodium (Na) Variant 154",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "245-sodium--na--variant-168",
+    "name": "Sodium (Na) Variant 168",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "246-sodium--na--variant-182",
+    "name": "Sodium (Na) Variant 182",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "247-sodium--na--variant-196",
+    "name": "Sodium (Na) Variant 196",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "248-sodium--na--variant-210",
+    "name": "Sodium (Na) Variant 210",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "249-sodium--na--variant-224",
+    "name": "Sodium (Na) Variant 224",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "250-sodium--na--variant-238",
+    "name": "Sodium (Na) Variant 238",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "251-sodium--na--variant-252",
+    "name": "Sodium (Na) Variant 252",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "252-sodium--na--variant-266",
+    "name": "Sodium (Na) Variant 266",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "253-sodium--na--variant-280",
+    "name": "Sodium (Na) Variant 280",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "254-sodium--na--variant-294",
+    "name": "Sodium (Na) Variant 294",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "255-tnf--",
+    "name": "TNF‑α",
+    "category": "Inflammatory Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "256-tsh",
+    "name": "TSH",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "257-testosterone",
+    "name": "Testosterone",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "258-total-bilirubin",
+    "name": "Total Bilirubin",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "259-total-bilirubin-variant-125",
+    "name": "Total Bilirubin Variant 125",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "260-total-bilirubin-variant-139",
+    "name": "Total Bilirubin Variant 139",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "261-total-bilirubin-variant-153",
+    "name": "Total Bilirubin Variant 153",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "262-total-bilirubin-variant-167",
+    "name": "Total Bilirubin Variant 167",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "263-total-bilirubin-variant-181",
+    "name": "Total Bilirubin Variant 181",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "264-total-bilirubin-variant-195",
+    "name": "Total Bilirubin Variant 195",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "265-total-bilirubin-variant-209",
+    "name": "Total Bilirubin Variant 209",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "266-total-bilirubin-variant-223",
+    "name": "Total Bilirubin Variant 223",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "267-total-bilirubin-variant-237",
+    "name": "Total Bilirubin Variant 237",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "268-total-bilirubin-variant-251",
+    "name": "Total Bilirubin Variant 251",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "269-total-bilirubin-variant-265",
+    "name": "Total Bilirubin Variant 265",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "270-total-bilirubin-variant-279",
+    "name": "Total Bilirubin Variant 279",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "271-total-bilirubin-variant-293",
+    "name": "Total Bilirubin Variant 293",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "272-total-cholesterol",
+    "name": "Total Cholesterol",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "273-total-protein",
+    "name": "Total Protein",
+    "category": "Metabolic Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "274-total-protein-variant-135",
+    "name": "Total Protein Variant 135",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "275-total-protein-variant-149",
+    "name": "Total Protein Variant 149",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "276-total-protein-variant-163",
+    "name": "Total Protein Variant 163",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "277-total-protein-variant-177",
+    "name": "Total Protein Variant 177",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "278-total-protein-variant-191",
+    "name": "Total Protein Variant 191",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "279-total-protein-variant-205",
+    "name": "Total Protein Variant 205",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "280-total-protein-variant-219",
+    "name": "Total Protein Variant 219",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "281-total-protein-variant-233",
+    "name": "Total Protein Variant 233",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "282-total-protein-variant-247",
+    "name": "Total Protein Variant 247",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "283-total-protein-variant-261",
+    "name": "Total Protein Variant 261",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "284-total-protein-variant-275",
+    "name": "Total Protein Variant 275",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "285-total-protein-variant-289",
+    "name": "Total Protein Variant 289",
+    "category": "Expanded Biomarkers",
+    "type": "Biomarker",
+    "use": "Additional marker variant for extended panels"
+  },
+  {
+    "id": "286-total-t4",
+    "name": "Total T4",
+    "category": "Endocrine / Metabolic",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "287-total-tau",
+    "name": "Total Tau",
+    "category": "Neurological / Neurodegenerative",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "288-triglycerides",
+    "name": "Triglycerides",
+    "category": "Lipid Panel",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "289-troponin-i",
+    "name": "Troponin I",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "290-troponin-t",
+    "name": "Troponin T",
+    "category": "Cardiac Biomarkers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "291-urine-albumin-to-creatinine-ratio--uacr-",
+    "name": "Urine Albumin-to-Creatinine Ratio (UACR)",
+    "category": "Kidney Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "292-vitamin-b12",
+    "name": "Vitamin B12",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "293-vitamin-d--25-oh-",
+    "name": "Vitamin D (25‑OH)",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "294-white-blood-cell-count--wbc-",
+    "name": "White Blood Cell Count (WBC)",
+    "category": "Hematology",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "295-zinc",
+    "name": "Zinc",
+    "category": "Vitamins / Nutritional",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "296-aptt",
+    "name": "aPTT",
+    "category": "Coagulation / Hemostasis",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "297-egfr",
+    "name": "eGFR",
+    "category": "Kidney Function",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "298-hcg",
+    "name": "hCG",
+    "category": "Cancer / Tumor Markers",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "299-p-tau181",
+    "name": "p‑tau181",
+    "category": "Neurological / Neurodegenerative",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  },
+  {
+    "id": "300-p-tau217",
+    "name": "p‑tau217",
+    "category": "Neurological / Neurodegenerative",
+    "type": "Biomarker",
+    "use": "Clinically measurable biomarker for diagnostics or monitoring"
+  }
+]
