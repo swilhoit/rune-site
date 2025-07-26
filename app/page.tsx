@@ -96,21 +96,21 @@ export default function Home() {
       </div>
 
       {/* Explore Health Topics Section */}
-      <section className="relative py-24 bg-gradient-to-b from-black to-gray-900">
+      <section className="relative py-24 bg-[#F4F0EA]">
         <div className="container mx-auto px-16">
           <div className="text-center mb-16">
-            <h2 className="text-[56px] font-normal text-white mb-4 font-headline leading-[1.1] animate-fadeInUp opacity-0" style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}>
+            <h2 className="text-[56px] font-normal text-[#4A4A4A] mb-4 font-headline leading-[1.1] animate-fadeInUp opacity-0" style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}>
               Explore Health Topics
             </h2>
             <div className="w-20 h-1 bg-gradient-to-r from-orange-500 to-green-400 mx-auto mb-8 animate-scaleIn opacity-0" style={{ animationDelay: '400ms', animationFillMode: 'forwards' }}></div>
-            <p className="text-xl text-gray-300 font-mono max-w-2xl mx-auto animate-fadeInUp opacity-0" style={{ animationDelay: '600ms', animationFillMode: 'forwards' }}>
+            <p className="text-xl text-[#4A4A4A] font-mono max-w-2xl mx-auto animate-fadeInUp opacity-0" style={{ animationDelay: '600ms', animationFillMode: 'forwards' }}>
               Discover natural remedies and understand symptoms with our comprehensive health database
             </p>
           </div>
 
           {/* Symptoms Tag Cloud */}
           <div className="mb-20 animate-fadeInUp opacity-0" style={{ animationDelay: '800ms', animationFillMode: 'forwards' }}>
-            <h3 className="text-2xl font-headline text-white mb-8 text-center">Common Symptoms</h3>
+            <h3 className="text-2xl font-headline text-[#4A4A4A] mb-8 text-center">Common Symptoms</h3>
             <div className="flex flex-wrap gap-3 justify-center max-w-5xl mx-auto">
               {symptoms.slice(0, 30).map((symptom, index) => {
                 const sizes = ['text-sm', 'text-base', 'text-lg', 'text-xl'];
@@ -126,9 +126,9 @@ export default function Home() {
                       ${randomSize}
                       ${isSelected 
                         ? 'bg-orange-500 text-white' 
-                        : 'bg-white/10 text-white hover:bg-orange-500/20 hover:text-orange-300 border border-white/20'
+                        : 'bg-white text-[#4A4A4A] hover:bg-orange-500/20 hover:text-orange-600 border border-gray-300'
                       }
-                      hover:scale-105 animate-fadeIn
+                      animate-fadeIn
                     `}
                     style={{ animationDelay: `${index * 50}ms` }}
                     onMouseEnter={() => setSelectedSymptoms([symptom.id])}
@@ -151,7 +151,7 @@ export default function Home() {
 
           {/* Remedies Tag Cloud */}
           <div className="animate-fadeInUp opacity-0" style={{ animationDelay: '1000ms', animationFillMode: 'forwards' }}>
-            <h3 className="text-2xl font-headline text-white mb-8 text-center">Natural Remedies</h3>
+            <h3 className="text-2xl font-headline text-[#4A4A4A] mb-8 text-center">Natural Remedies</h3>
             <div className="flex flex-wrap gap-3 justify-center max-w-5xl mx-auto">
               {remedies.slice(0, 30).map((remedy, index) => {
                 const sizes = ['text-sm', 'text-base', 'text-lg', 'text-xl'];
@@ -167,9 +167,9 @@ export default function Home() {
                       ${randomSize}
                       ${isSelected 
                         ? 'bg-green-500 text-white' 
-                        : 'bg-white/10 text-white hover:bg-green-500/20 hover:text-green-300 border border-white/20'
+                        : 'bg-white text-[#4A4A4A] hover:bg-green-500/20 hover:text-green-600 border border-gray-300'
                       }
-                      hover:scale-105 animate-fadeIn
+                      animate-fadeIn
                     `}
                     style={{ animationDelay: `${index * 50}ms` }}
                     onMouseEnter={() => setSelectedRemedies([remedy.id])}
