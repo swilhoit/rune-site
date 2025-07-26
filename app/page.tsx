@@ -122,7 +122,7 @@ export default function Home() {
                     key={symptom.id}
                     href={`/health-database?tab=symptoms&search=${encodeURIComponent(symptom.name)}`}
                     className={`
-                      px-4 py-2 rounded-full font-mono transition-all duration-300 cursor-pointer
+                      px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer
                       ${randomSize}
                       ${isSelected 
                         ? 'bg-orange-500 text-white' 
@@ -163,7 +163,7 @@ export default function Home() {
                     key={remedy.id}
                     href={`/health-database?tab=remedies&search=${encodeURIComponent(remedy.name)}`}
                     className={`
-                      px-4 py-2 rounded-full font-mono transition-all duration-300 cursor-pointer
+                      px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer
                       ${randomSize}
                       ${isSelected 
                         ? 'bg-green-500 text-white' 
