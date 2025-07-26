@@ -72,7 +72,7 @@ export async function generateStaticParams() {
 // Custom portable text components
 const components = {
   types: {
-    image: ({ value }: { value: { asset?: { _ref?: string }; alt?: string } }) => {
+    image: ({ value }: { value: any }) => {
       if (!value?.asset?._ref) {
         return null;
       }
