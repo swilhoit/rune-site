@@ -15,7 +15,10 @@ export default function BiomarkersDatabase() {
 
   useEffect(() => {
     // Extract unique categories when biomarkers load
-    const uniqueCategories = [...new Set(biomarkers.map((b: Biomarker) => b.category).filter(Boolean))];
+    const uniqueCategories = [...new Set(biomarkers
+      .map((b: Biomarker) => b.category)
+      .filter((category): category is string => Boolean(category))
+    )];
     setCategories(uniqueCategories.sort());
   }, [biomarkers]);
 
