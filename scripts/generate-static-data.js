@@ -2,6 +2,43 @@ const { BigQuery } = require('@google-cloud/bigquery');
 const fs = require('fs');
 const path = require('path');
 
+// Skip data generation if no credentials are available (e.g., in CI/CD)
+if (!process.env.GOOGLE_APPLICATION_CREDENTIALS && !process.env.GOOGLE_CLOUD_KEYFILE) {
+  console.log('⚠️  No Google Cloud credentials found. Skipping static data generation.');
+  console.log('   To generate static data, set GOOGLE_APPLICATION_CREDENTIALS or GOOGLE_CLOUD_KEYFILE');
+  
+  // Create empty JSON files so the build doesn't fail
+  const dataDir = path.join(__dirname, '../public/data');
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
+  }
+  
+  // Check if files already exist (from previous builds)
+  const files = ['biomarkers.json', 'symptoms.json', 'remedies.json'];
+  let existingFiles = 0;
+  
+  files.forEach(file => {
+    const filePath = path.join(dataDir, file);
+    if (fs.existsSync(filePath)) {
+      existingFiles++;
+    }
+  });
+  
+  if (existingFiles === files.length) {
+    console.log('✓ Using existing static data files from repository');
+  } else {
+    console.log('⚠️  Creating empty data files for build to continue');
+    files.forEach(file => {
+      const filePath = path.join(dataDir, file);
+      if (!fs.existsSync(filePath)) {
+        fs.writeFileSync(filePath, '[]');
+      }
+    });
+  }
+  
+  process.exit(0);
+}
+
 const bigquery = new BigQuery({
   projectId: 'tetrahedron-366117',
 });
