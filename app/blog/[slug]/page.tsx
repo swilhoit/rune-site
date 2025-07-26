@@ -72,6 +72,7 @@ export async function generateStaticParams() {
 // Custom portable text components
 const components = {
   types: {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     image: ({ value }: { value: any }) => {
       if (!value?.asset?._ref) {
         return null;
