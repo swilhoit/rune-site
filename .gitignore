@@ -45,3 +45,7 @@ next-env.d.ts
 /sanity/.env
 /sanity/.env.local
 /sanity/dist
+
+# Google Cloud service account files
+*tetrahedron*.json
+gcloud-creds-for-vercel.txt
