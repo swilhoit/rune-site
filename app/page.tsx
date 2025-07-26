@@ -1,11 +1,17 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import Lottie from 'lottie-react';
 import animationData from '../public/Scene-11.json';
+import { useStaticSymptoms, useStaticRemedies } from '@/hooks/useStaticData';
 
 export default function Home() {
+  const { symptoms } = useStaticSymptoms();
+  const { remedies } = useStaticRemedies();
+  const [selectedSymptoms, setSelectedSymptoms] = useState<string[]>([]);
+  const [selectedRemedies, setSelectedRemedies] = useState<string[]>([]);
   return (
     <>
       <div className="min-h-screen relative bg-black">
@@ -88,6 +94,103 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      {/* Explore Health Topics Section */}
+      <section className="relative py-24 bg-gradient-to-b from-black to-gray-900">
+        <div className="container mx-auto px-16">
+          <div className="text-center mb-16">
+            <h2 className="text-[56px] font-normal text-white mb-4 font-headline leading-[1.1] animate-fadeInUp opacity-0" style={{ animationDelay: '200ms', animationFillMode: 'forwards' }}>
+              Explore Health Topics
+            </h2>
+            <div className="w-20 h-1 bg-gradient-to-r from-orange-500 to-green-400 mx-auto mb-8 animate-scaleIn opacity-0" style={{ animationDelay: '400ms', animationFillMode: 'forwards' }}></div>
+            <p className="text-xl text-gray-300 font-mono max-w-2xl mx-auto animate-fadeInUp opacity-0" style={{ animationDelay: '600ms', animationFillMode: 'forwards' }}>
+              Discover natural remedies and understand symptoms with our comprehensive health database
+            </p>
+          </div>
+
+          {/* Symptoms Tag Cloud */}
+          <div className="mb-20 animate-fadeInUp opacity-0" style={{ animationDelay: '800ms', animationFillMode: 'forwards' }}>
+            <h3 className="text-2xl font-headline text-white mb-8 text-center">Common Symptoms</h3>
+            <div className="flex flex-wrap gap-3 justify-center max-w-5xl mx-auto">
+              {symptoms.slice(0, 30).map((symptom, index) => {
+                const sizes = ['text-sm', 'text-base', 'text-lg', 'text-xl'];
+                const randomSize = sizes[Math.floor(Math.random() * sizes.length)];
+                const isSelected = selectedSymptoms.includes(symptom.id);
+                
+                return (
+                  <Link
+                    key={symptom.id}
+                    href={`/health-database?tab=symptoms&search=${encodeURIComponent(symptom.name)}`}
+                    className={`
+                      px-4 py-2 rounded-full font-mono transition-all duration-300 cursor-pointer
+                      ${randomSize}
+                      ${isSelected 
+                        ? 'bg-orange-500 text-white' 
+                        : 'bg-white/10 text-white hover:bg-orange-500/20 hover:text-orange-300 border border-white/20'
+                      }
+                      hover:scale-105 animate-fadeIn
+                    `}
+                    style={{ animationDelay: `${index * 50}ms` }}
+                    onMouseEnter={() => setSelectedSymptoms([symptom.id])}
+                    onMouseLeave={() => setSelectedSymptoms([])}
+                  >
+                    {symptom.name}
+                  </Link>
+                );
+              })}
+            </div>
+            <div className="text-center mt-8">
+              <Link 
+                href="/health-database?tab=symptoms" 
+                className="inline-block px-6 py-3 border border-orange-500 text-orange-500 rounded-md hover:bg-orange-500 hover:text-white transition-all font-mono text-sm uppercase"
+              >
+                View All Symptoms →
+              </Link>
+            </div>
+          </div>
+
+          {/* Remedies Tag Cloud */}
+          <div className="animate-fadeInUp opacity-0" style={{ animationDelay: '1000ms', animationFillMode: 'forwards' }}>
+            <h3 className="text-2xl font-headline text-white mb-8 text-center">Natural Remedies</h3>
+            <div className="flex flex-wrap gap-3 justify-center max-w-5xl mx-auto">
+              {remedies.slice(0, 30).map((remedy, index) => {
+                const sizes = ['text-sm', 'text-base', 'text-lg', 'text-xl'];
+                const randomSize = sizes[Math.floor(Math.random() * sizes.length)];
+                const isSelected = selectedRemedies.includes(remedy.id);
+                
+                return (
+                  <Link
+                    key={remedy.id}
+                    href={`/health-database?tab=remedies&search=${encodeURIComponent(remedy.name)}`}
+                    className={`
+                      px-4 py-2 rounded-full font-mono transition-all duration-300 cursor-pointer
+                      ${randomSize}
+                      ${isSelected 
+                        ? 'bg-green-500 text-white' 
+                        : 'bg-white/10 text-white hover:bg-green-500/20 hover:text-green-300 border border-white/20'
+                      }
+                      hover:scale-105 animate-fadeIn
+                    `}
+                    style={{ animationDelay: `${index * 50}ms` }}
+                    onMouseEnter={() => setSelectedRemedies([remedy.id])}
+                    onMouseLeave={() => setSelectedRemedies([])}
+                  >
+                    {remedy.name}
+                  </Link>
+                );
+              })}
+            </div>
+            <div className="text-center mt-8">
+              <Link 
+                href="/health-database?tab=remedies" 
+                className="inline-block px-6 py-3 border border-green-500 text-green-500 rounded-md hover:bg-green-500 hover:text-white transition-all font-mono text-sm uppercase"
+              >
+                View All Remedies →
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* Dashboard Section */}
       <section className="relative py-24">

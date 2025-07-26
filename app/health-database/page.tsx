@@ -19,10 +19,18 @@ export default function HealthDatabase() {
   const error = symptomsError || remediesError;
 
   useEffect(() => {
-    // Check URL params for tab selection
+    // Check URL params for tab selection and search term
     const tabParam = searchParams.get('tab');
+    const searchParam = searchParams.get('search');
+    
     if (tabParam === 'remedies') {
       setSelectedTab('remedies');
+    } else if (tabParam === 'symptoms') {
+      setSelectedTab('symptoms');
+    }
+    
+    if (searchParam) {
+      setSearchTerm(searchParam);
     }
   }, [searchParams]);
 
