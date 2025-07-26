@@ -64,7 +64,7 @@ export default function BiomarkersDatabase() {
             <a href="#" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">FAQ</a>
             <Link href="/health-database" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">Health Database</Link>
             <Link href="/biomarkers" className="text-orange-500 hover:text-orange-400 hover:underline transition-all font-mono text-sm">Biomarkers</Link>
-            <a href="#" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">About Us</a>
+            <Link href="/blog" className="text-white hover:text-gray-300 hover:underline transition-all font-mono text-sm">Blog</Link>
           </div>
         </div>
         <div className="flex items-center gap-4">
@@ -295,7 +295,7 @@ export default function BiomarkersDatabase() {
               <a href="#" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">FAQ</a>
               <Link href="/health-database" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Health Database</Link>
               <Link href="/biomarkers" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Biomarkers</Link>
-              <a href="#" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">About Us</a>
+              <Link href="/blog" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Blog</Link>
             </div>
             <div className="flex gap-4 mb-8">
               <button className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:bg-white/10 transition-all font-mono text-sm uppercase">
