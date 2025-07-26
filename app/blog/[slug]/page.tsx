@@ -9,13 +9,25 @@ interface Post {
   _id: string;
   title: string;
   slug: { current: string };
-  mainImage?: any;
+  mainImage?: {
+    asset?: {
+      _ref?: string;
+    };
+    alt?: string;
+  };
   excerpt?: string;
   publishedAt: string;
-  body: any[];
+  body: Array<{
+    _type: string;
+    [key: string]: unknown;
+  }>;
   author?: {
     name: string;
-    image?: any;
+    image?: {
+      asset?: {
+        _ref?: string;
+      };
+    };
     bio?: string;
   };
   categories?: Array<{
@@ -60,7 +72,7 @@ export async function generateStaticParams() {
 // Custom portable text components
 const components = {
   types: {
-    image: ({ value }: any) => {
+    image: ({ value }: { value: { asset?: { _ref?: string }; alt?: string } }) => {
       if (!value?.asset?._ref) {
         return null;
       }
@@ -78,26 +90,26 @@ const components = {
     },
   },
   block: {
-    h1: ({ children }: any) => <h1 className="text-4xl font-headline font-normal mt-8 mb-4 text-gray-900">{children}</h1>,
-    h2: ({ children }: any) => <h2 className="text-3xl font-headline font-normal mt-8 mb-4 text-gray-900">{children}</h2>,
-    h3: ({ children }: any) => <h3 className="text-2xl font-headline font-normal mt-6 mb-3 text-gray-900">{children}</h3>,
-    h4: ({ children }: any) => <h4 className="text-xl font-headline font-normal mt-6 mb-3 text-gray-900">{children}</h4>,
-    normal: ({ children }: any) => <p className="mb-4 text-gray-700 font-mono leading-relaxed">{children}</p>,
-    blockquote: ({ children }: any) => (
+    h1: ({ children }: { children: React.ReactNode }) => <h1 className="text-4xl font-headline font-normal mt-8 mb-4 text-gray-900">{children}</h1>,
+    h2: ({ children }: { children: React.ReactNode }) => <h2 className="text-3xl font-headline font-normal mt-8 mb-4 text-gray-900">{children}</h2>,
+    h3: ({ children }: { children: React.ReactNode }) => <h3 className="text-2xl font-headline font-normal mt-6 mb-3 text-gray-900">{children}</h3>,
+    h4: ({ children }: { children: React.ReactNode }) => <h4 className="text-xl font-headline font-normal mt-6 mb-3 text-gray-900">{children}</h4>,
+    normal: ({ children }: { children: React.ReactNode }) => <p className="mb-4 text-gray-700 font-mono leading-relaxed">{children}</p>,
+    blockquote: ({ children }: { children: React.ReactNode }) => (
       <blockquote className="border-l-4 border-orange-500 pl-6 my-6 italic text-gray-700 font-mono">
         {children}
       </blockquote>
     ),
   },
   list: {
-    bullet: ({ children }: any) => <ul className="list-disc list-inside mb-4 text-gray-700 font-mono">{children}</ul>,
-    number: ({ children }: any) => <ol className="list-decimal list-inside mb-4 text-gray-700 font-mono">{children}</ol>,
+    bullet: ({ children }: { children: React.ReactNode }) => <ul className="list-disc list-inside mb-4 text-gray-700 font-mono">{children}</ul>,
+    number: ({ children }: { children: React.ReactNode }) => <ol className="list-decimal list-inside mb-4 text-gray-700 font-mono">{children}</ol>,
   },
   marks: {
-    strong: ({ children }: any) => <strong className="font-bold">{children}</strong>,
-    em: ({ children }: any) => <em className="italic">{children}</em>,
-    code: ({ children }: any) => <code className="bg-gray-100 px-2 py-1 rounded text-sm">{children}</code>,
-    link: ({ value, children }: any) => {
+    strong: ({ children }: { children: React.ReactNode }) => <strong className="font-bold">{children}</strong>,
+    em: ({ children }: { children: React.ReactNode }) => <em className="italic">{children}</em>,
+    code: ({ children }: { children: React.ReactNode }) => <code className="bg-gray-100 px-2 py-1 rounded text-sm">{children}</code>,
+    link: ({ value, children }: { value?: { href?: string }; children: React.ReactNode }) => {
       const target = (value?.href || '').startsWith('http') ? '_blank' : undefined;
       return (
         <a href={value?.href} target={target} rel={target === '_blank' ? 'noopener noreferrer' : undefined} className="text-orange-600 hover:text-orange-700 underline">

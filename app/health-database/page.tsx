@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
-import { Symptom, Remedy } from '@/lib/bigquery';
 import { useStaticSymptoms, useStaticRemedies } from '@/hooks/useStaticData';
 
 export default function HealthDatabase() {
@@ -259,9 +258,11 @@ export default function HealthDatabase() {
                   </h3>
                   {remedy.imageUrl && (
                     <div className="w-full h-40 mb-4 overflow-hidden rounded-lg">
-                      <img 
+                      <Image 
                         src={remedy.imageUrl} 
                         alt={remedy.name}
+                        width={400}
+                        height={160}
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                       />
                     </div>
@@ -309,7 +310,7 @@ export default function HealthDatabase() {
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-200">
-                  {selectedTab === 'symptoms' && filteredSymptoms.map((symptom, index) => (
+                  {selectedTab === 'symptoms' && filteredSymptoms.map((symptom) => (
                     <tr key={symptom.id} className="hover:bg-gray-50 transition-colors">
                       <td className="px-6 py-4">
                         <Link href={`/health-database/symptoms/${encodeURIComponent(symptom.id)}`} className="text-gray-900 font-headline text-lg hover:text-orange-600 transition-colors">
@@ -336,14 +337,16 @@ export default function HealthDatabase() {
                     </tr>
                   ))}
                   
-                  {selectedTab === 'remedies' && filteredRemedies.map((remedy, index) => (
+                  {selectedTab === 'remedies' && filteredRemedies.map((remedy) => (
                     <tr key={remedy.id} className="hover:bg-gray-50 transition-colors">
                       <td className="px-6 py-4">
                         {remedy.imageUrl && (
                           <div className="w-16 h-16 overflow-hidden rounded-lg">
-                            <img 
+                            <Image 
                               src={remedy.imageUrl} 
                               alt={remedy.name}
+                              width={64}
+                              height={64}
                               className="w-full h-full object-cover"
                             />
                           </div>
@@ -380,13 +383,13 @@ export default function HealthDatabase() {
         {/* Empty State */}
         {!loading && !error && selectedTab === 'symptoms' && filteredSymptoms.length === 0 && (
           <div className="text-center py-12 bg-white/90 backdrop-blur rounded-xl">
-            <p className="text-gray-600 font-mono text-lg">No symptoms found matching "{searchTerm}"</p>
+            <p className="text-gray-600 font-mono text-lg">No symptoms found matching &quot;{searchTerm}&quot;</p>
           </div>
         )}
 
         {!loading && !error && selectedTab === 'remedies' && filteredRemedies.length === 0 && (
           <div className="text-center py-12 bg-white/90 backdrop-blur rounded-xl">
-            <p className="text-gray-600 font-mono text-lg">No remedies found matching "{searchTerm}"</p>
+            <p className="text-gray-600 font-mono text-lg">No remedies found matching &quot;{searchTerm}&quot;</p>
           </div>
         )}
         </div>

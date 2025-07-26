@@ -232,7 +232,7 @@ export default function BiomarkersDatabase() {
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-200">
-                  {filteredBiomarkers.map((biomarker, index) => (
+                  {filteredBiomarkers.map((biomarker) => (
                     <tr key={biomarker.id} className="hover:bg-gray-50 transition-colors">
                       <td className="px-6 py-4">
                         <Link href={`/biomarkers/${encodeURIComponent(biomarker.id)}`} className="text-gray-900 font-headline text-lg hover:text-blue-600 transition-colors">
@@ -272,7 +272,7 @@ export default function BiomarkersDatabase() {
         {/* Empty State */}
         {!loading && !error && filteredBiomarkers.length === 0 && (
           <div className="text-center py-12 bg-white/90 backdrop-blur rounded-xl">
-            <p className="text-gray-600 font-mono text-lg">No biomarkers found matching "{searchTerm}"</p>
+            <p className="text-gray-600 font-mono text-lg">No biomarkers found matching &quot;{searchTerm}&quot;</p>
           </div>
         )}
         </div>

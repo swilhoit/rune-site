@@ -7,12 +7,21 @@ interface Post {
   _id: string;
   title: string;
   slug: { current: string };
-  mainImage?: any;
+  mainImage?: {
+    asset?: {
+      _ref?: string;
+    };
+    alt?: string;
+  };
   excerpt?: string;
   publishedAt: string;
   author?: {
     name: string;
-    image?: any;
+    image?: {
+      asset?: {
+        _ref?: string;
+      };
+    };
   };
   categories?: Array<{
     title: string;

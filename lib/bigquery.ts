@@ -114,7 +114,7 @@ export async function getRemediesForSymptom(symptomId: string): Promise<(Remedy 
   };
 
   try {
-    const [rows] = await bigquery.query(options);
+    await bigquery.query(options);
     // Here you would parse the remedies_text to extract individual remedies
     // For now, returning empty array
     return [];
@@ -125,7 +125,7 @@ export async function getRemediesForSymptom(symptomId: string): Promise<(Remedy 
 }
 
 // Get symptoms for a specific remedy
-export async function getSymptomsForRemedy(remedyId: string): Promise<(Symptom & { effectiveness?: number; notes?: string })[]> {
+export async function getSymptomsForRemedy(): Promise<(Symptom & { effectiveness?: number; notes?: string })[]> {
   // This would need to search through all symptoms' Remedies text to find mentions of this remedy
   // In a production system, this would ideally be a proper relational table
   return [];
@@ -147,7 +147,7 @@ export async function getBiomarkers(): Promise<Biomarker[]> {
   try {
     const [rows] = await bigquery.query(query);
     // Create unique IDs by combining row_id with name
-    return rows.map((row: any) => ({
+    return rows.map((row: { row_id: number; name: string; category?: string; type?: string; use?: string }) => ({
       id: `${row.row_id}-${row.name}`.toLowerCase().replace(/[^a-z0-9-]/g, '-'),
       name: row.name,
       category: row.category,

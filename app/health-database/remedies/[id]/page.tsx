@@ -105,9 +105,11 @@ export default function RemedyPage() {
                   {/* Image Section */}
                   {remedy.imageUrl && (
                     <div className="relative h-[500px] lg:h-auto">
-                      <img
+                      <Image
                         src={remedy.imageUrl}
                         alt={remedy.name}
+                        width={800}
+                        height={500}
                         className="w-full h-full object-cover"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
