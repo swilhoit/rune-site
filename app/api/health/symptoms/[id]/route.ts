@@ -3,6 +3,12 @@ import { BigQuery } from '@google-cloud/bigquery';
 
 const bigquery = new BigQuery({
   projectId: 'tetrahedron-366117',
+  ...(process.env.GOOGLE_CLOUD_KEYFILE && {
+    credentials: JSON.parse(process.env.GOOGLE_CLOUD_KEYFILE)
+  }),
+  ...(process.env.GOOGLE_APPLICATION_CREDENTIALS && {
+    keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS
+  }),
 });
 
 export async function GET(

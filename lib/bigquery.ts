@@ -3,8 +3,12 @@ import { BigQuery } from '@google-cloud/bigquery';
 // Initialize BigQuery client
 const bigquery = new BigQuery({
   projectId: 'tetrahedron-366117',
-  // If you have a service account key file, uncomment and update the path:
-  // keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS,
+  ...(process.env.GOOGLE_CLOUD_KEYFILE && {
+    credentials: JSON.parse(process.env.GOOGLE_CLOUD_KEYFILE)
+  }),
+  ...(process.env.GOOGLE_APPLICATION_CREDENTIALS && {
+    keyFilename: process.env.GOOGLE_APPLICATION_CREDENTIALS
+  }),
 });
 
 export interface Symptom {
