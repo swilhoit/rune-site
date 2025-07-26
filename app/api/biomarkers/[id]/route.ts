@@ -3,9 +3,10 @@ import { getBiomarkerById } from '@/lib/bigquery';
 
 export async function GET(
   request: Request,
-  { params }: { params: { id: string } }
+  context: { params: Promise<{ id: string }> }
 ) {
   try {
+    const params = await context.params;
     const biomarkerId = decodeURIComponent(params.id);
     const biomarker = await getBiomarkerById(biomarkerId);
     

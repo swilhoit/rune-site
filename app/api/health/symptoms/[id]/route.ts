@@ -7,9 +7,10 @@ const bigquery = new BigQuery({
 
 export async function GET(
   request: Request,
-  { params }: { params: { id: string } }
+  context: { params: Promise<{ id: string }> }
 ) {
   try {
+    const params = await context.params;
     const symptomId = decodeURIComponent(params.id);
     
     const query = `
