@@ -6,8 +6,14 @@ const path = require('path');
 if (!process.env.GOOGLE_APPLICATION_CREDENTIALS && !process.env.GOOGLE_CLOUD_KEYFILE) {
   console.log('⚠️  No Google Cloud credentials found. Skipping static data generation.');
   console.log('   To generate static data, set GOOGLE_APPLICATION_CREDENTIALS or GOOGLE_CLOUD_KEYFILE');
-  console.log('   Environment variables available:', Object.keys(process.env).filter(k => k.includes('GOOGLE') || k.includes('VERCEL')).join(', '));
+  
+  // Log all environment variables that start with GOOGLE or VERCEL for debugging
+  const relevantVars = Object.keys(process.env).filter(k => 
+    k.includes('GOOGLE') || k.includes('VERCEL') || k === 'CI' || k === 'NODE_ENV'
+  );
+  console.log('   Environment variables available:', relevantVars.length > 0 ? relevantVars.join(', ') : 'none');
   console.log('   Build environment:', process.env.VERCEL_ENV || 'unknown');
+  console.log('   NODE_ENV:', process.env.NODE_ENV || 'undefined');
   
   // Create empty JSON files so the build doesn't fail
   const dataDir = path.join(__dirname, '../public/data');
