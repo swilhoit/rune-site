@@ -72,14 +72,22 @@ export async function generateStaticParams() {
 // Custom portable text components
 const components = {
   types: {
-    image: ({ value }: { value: { asset?: { _ref?: string }; alt?: string } }) => {
+    image: ({ value }: { value: { _type?: string; asset?: { _ref?: string; _type?: string }; alt?: string } }) => {
       if (!value?.asset?._ref) {
         return null;
       }
+      // Create a properly typed image object for urlForImage
+      const imageWithType = {
+        _type: 'image' as const,
+        asset: {
+          _type: 'reference' as const,
+          _ref: value.asset._ref
+        }
+      };
       return (
         <div className="my-8">
           <Image
-            src={urlForImage(value).width(800).height(450).url()}
+            src={urlForImage(imageWithType).width(800).height(450).url()}
             alt={value.alt || 'Blog image'}
             width={800}
             height={450}
