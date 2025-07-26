@@ -113,8 +113,6 @@ export default function Home() {
             <h3 className="text-2xl font-headline text-[#4A4A4A] mb-8 text-center">Common Symptoms</h3>
             <div className="flex flex-wrap gap-3 justify-center max-w-5xl mx-auto">
               {symptoms.slice(0, 30).map((symptom, index) => {
-                const sizes = ['text-sm', 'text-base', 'text-lg', 'text-xl'];
-                const randomSize = sizes[Math.floor(Math.random() * sizes.length)];
                 const isSelected = selectedSymptoms.includes(symptom.id);
                 
                 return (
@@ -122,8 +120,7 @@ export default function Home() {
                     key={symptom.id}
                     href={`/health-database?tab=symptoms&search=${encodeURIComponent(symptom.name)}`}
                     className={`
-                      px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer
-                      ${randomSize}
+                      px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer text-sm
                       ${isSelected 
                         ? 'bg-orange-500 text-white' 
                         : 'bg-white text-[#4A4A4A] hover:bg-orange-500/20 hover:text-orange-600 border border-gray-300'
@@ -154,8 +151,6 @@ export default function Home() {
             <h3 className="text-2xl font-headline text-[#4A4A4A] mb-8 text-center">Natural Remedies</h3>
             <div className="flex flex-wrap gap-3 justify-center max-w-5xl mx-auto">
               {remedies.slice(0, 30).map((remedy, index) => {
-                const sizes = ['text-sm', 'text-base', 'text-lg', 'text-xl'];
-                const randomSize = sizes[Math.floor(Math.random() * sizes.length)];
                 const isSelected = selectedRemedies.includes(remedy.id);
                 
                 return (
@@ -163,8 +158,7 @@ export default function Home() {
                     key={remedy.id}
                     href={`/health-database?tab=remedies&search=${encodeURIComponent(remedy.name)}`}
                     className={`
-                      px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer
-                      ${randomSize}
+                      px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer text-sm
                       ${isSelected 
                         ? 'bg-green-500 text-white' 
                         : 'bg-white text-[#4A4A4A] hover:bg-green-500/20 hover:text-green-600 border border-gray-300'
