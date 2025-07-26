@@ -42,7 +42,13 @@ async function getPosts(): Promise<Post[]> {
 }
 
 export default async function BlogPage() {
-  const posts = await getPosts();
+  let posts: Post[] = [];
+  
+  try {
+    posts = await getPosts();
+  } catch (error) {
+    console.error('Error fetching posts:', error);
+  }
 
   return (
     <>

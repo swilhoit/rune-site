@@ -109,7 +109,13 @@ const components = {
 };
 
 export default async function BlogPostPage({ params }: { params: { slug: string } }) {
-  const post = await getPost(params.slug);
+  let post: Post | null = null;
+  
+  try {
+    post = await getPost(params.slug);
+  } catch (error) {
+    console.error('Error fetching post:', error);
+  }
 
   if (!post) {
     notFound();
