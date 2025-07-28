@@ -118,7 +118,7 @@ export default function Home() {
                 return (
                   <Link
                     key={symptom.id}
-                    href={`/health-database?tab=symptoms&search=${encodeURIComponent(symptom.name)}`}
+                    href={`/health-database/symptoms/${encodeURIComponent(symptom.id)}`}
                     className={`
                       px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer text-sm
                       ${isSelected 
@@ -156,7 +156,7 @@ export default function Home() {
                 return (
                   <Link
                     key={remedy.id}
-                    href={`/health-database?tab=remedies&search=${encodeURIComponent(remedy.name)}`}
+                    href={`/health-database/remedies/${encodeURIComponent(remedy.id)}`}
                     className={`
                       px-4 py-2 rounded-full font-mono transition-colors duration-200 cursor-pointer text-sm
                       ${isSelected 
