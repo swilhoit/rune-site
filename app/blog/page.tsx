@@ -101,12 +101,12 @@ export default async function BlogPage() {
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <button className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:text-gray-300 transition-all font-mono text-sm uppercase">
+            <a href="https://app.rune.health" className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:text-gray-300 transition-all font-mono text-sm uppercase">
               LOG IN
-            </button>
-            <button className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
+            </a>
+            <a href="https://app.rune.health" className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
               SIGN UP
-            </button>
+            </a>
           </div>
         </nav>
 
@@ -150,10 +150,16 @@ export default async function BlogPage() {
                       className="bg-white/95 backdrop-blur rounded-xl shadow-md hover:shadow-xl transition-all overflow-hidden border border-gray-200 hover:border-orange-200 animate-fadeInUp opacity-0 cursor-pointer h-full flex flex-col"
                       style={{ animationDelay: `${(index % 6) * 100 + 400}ms`, animationFillMode: 'forwards' }}
                     >
-                      {post.mainImage && (
+                      {post.mainImage && post.mainImage.asset?._ref && (
                         <div className="relative h-48 overflow-hidden">
                           <Image
-                            src={urlForImage(post.mainImage).width(600).height(400).url()}
+                            src={urlForImage({
+                              _type: 'image' as const,
+                              asset: {
+                                _type: 'reference' as const,
+                                _ref: post.mainImage.asset._ref
+                              }
+                            }).width(600).height(400).url()}
                             alt={post.mainImage.alt || post.title}
                             fill
                             className="object-cover hover:scale-105 transition-transform duration-300"
@@ -187,9 +193,15 @@ export default async function BlogPage() {
                         <div className="flex items-center justify-between text-sm text-gray-500 font-mono">
                           {post.author && (
                             <span className="flex items-center gap-2">
-                              {post.author.image && (
+                              {post.author.image && post.author.image.asset?._ref && (
                                 <Image
-                                  src={urlForImage(post.author.image).width(40).height(40).url()}
+                                  src={urlForImage({
+                                    _type: 'image' as const,
+                                    asset: {
+                                      _type: 'reference' as const,
+                                      _ref: post.author.image.asset._ref
+                                    }
+                                  }).width(40).height(40).url()}
                                   alt={post.author.name}
                                   width={24}
                                   height={24}
@@ -236,12 +248,12 @@ export default async function BlogPage() {
               <Link href="/blog" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Blog</Link>
             </div>
             <div className="flex gap-4 mb-8">
-              <button className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:bg-white/10 transition-all font-mono text-sm uppercase">
+              <a href="https://app.rune.health" className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:bg-white/10 transition-all font-mono text-sm uppercase">
                 LOG IN
-              </button>
-              <button className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
+              </a>
+              <a href="https://app.rune.health" className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
                 SIGN UP
-              </button>
+              </a>
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center">

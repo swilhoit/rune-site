@@ -54,12 +54,12 @@ export default function Home() {
           </div>
         </div>
         <div className="flex items-center gap-4">
-          <button className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:text-gray-300 transition-all font-mono text-sm uppercase">
+          <a href="https://app.rune.health" className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:text-gray-300 transition-all font-mono text-sm uppercase">
             LOG IN
-          </button>
-          <button className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
+          </a>
+          <a href="https://app.rune.health" className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
             SIGN UP
-          </button>
+          </a>
         </div>
       </nav>
 
@@ -76,9 +76,9 @@ export default function Home() {
             <button className="px-8 py-3 border border-gray-600 text-white rounded-md hover:border-gray-400 hover:text-gray-300 transition-all font-mono text-sm uppercase">
               LEARN MORE
             </button>
-            <button className="px-8 py-3 bg-orange-500 text-white rounded-md hover:bg-orange-600 transition-all font-mono text-sm uppercase">
+            <a href="https://app.rune.health" className="px-8 py-3 bg-orange-500 text-white rounded-md hover:bg-orange-600 transition-all font-mono text-sm uppercase">
               SIGN UP
-            </button>
+            </a>
           </div>
         </div>
         
@@ -218,6 +218,16 @@ export default function Home() {
               />
             </div>
           </div>
+
+          {/* CTA Button */}
+          <div className="text-center animate-fadeInUp opacity-0" style={{ animationDelay: '800ms', animationFillMode: 'forwards' }}>
+            <a 
+              href="https://app.rune.health" 
+              className="inline-block px-8 py-4 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase"
+            >
+              SIGN UP NOW
+            </a>
+          </div>
           
         </div>
         
@@ -266,12 +276,12 @@ export default function Home() {
               <Link href="/blog" className="text-gray-400 hover:text-white hover:underline transition-all font-mono text-sm">Blog</Link>
             </div>
             <div className="flex gap-4 mb-8">
-              <button className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:bg-white/10 transition-all font-mono text-sm uppercase">
+              <a href="https://app.rune.health" className="px-8 py-3 text-white border border-gray-600 rounded-md hover:border-gray-400 hover:bg-white/10 transition-all font-mono text-sm uppercase">
                 LOG IN
-              </button>
-              <button className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
+              </a>
+              <a href="https://app.rune.health" className="px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-md transition-all font-mono text-sm uppercase">
                 SIGN UP
-              </button>
+              </a>
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center">
